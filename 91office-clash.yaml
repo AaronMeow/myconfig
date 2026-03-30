@@ -1,0 +1,818 @@
+mixed-port: 7890
+allow-lan: true
+bind-address: '*'
+mode: rule
+log-level: info
+external-controller: '127.0.0.1:9090'
+proxies:
+    - { name: 🇭🇰【请保存网址发布页获取最新网址】, type: vmess, server: y01.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【禁止使用全局代理模式访问国内】, type: vmess, server: y02.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【91jc01@gmail.com回家邮箱】, type: vmess, server: y03.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰【发布页https://bit.ly/91fby】', type: vmess, server: y04.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【不要使用自动选择和公告节点】, type: vmess, server: y05.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【常规国家节点全面支持谷歌gemini】, type: vmess, server: y06.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【有问题联系官网在线客服处理】, type: vmess, server: y07.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰【91老版本客户端已重新上线】, type: vmess, server: y08.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰HKG01|海外用户专用|DirectAccess, type: vmess, server: hkt01.drt390.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰HKG02|海外用户专用|DirectAccess, type: vmess, server: ic.drt390.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬SGP|海外用户专用|DirectAccess, type: vmess, server: lisg-01.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵JPN01|海外用户专用|DirectAccess, type: vmess, server: lijp-01.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA01|海外用户专用|DirectAccess, type: vmess, server: do1.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA02|海外用户专用|DirectAccess, type: vmess, server: do2.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA03|海外用户专用|DirectAccess, type: vmess, server: li-flm.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA04|海外用户专用|DirectAccess, type: vmess, server: li-xzx.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA05|海外用户专用|DirectAccess, type: vmess, server: li-xyt.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸USA06|海外用户专用|DirectAccess, type: vmess, server: li-dls.tigeroo1.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼TWN|海外用户专用|DirectAccess, type: vmess, server: hinet3.drt390.com, port: 52300, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港01|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港02|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港家宽01|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港家宽02|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港家宽03|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港家宽04|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡01|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡02|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本01|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本02|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本03|高级独享专线, type: vmess, server: z2.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本04|高级独享专线, type: vmess, server: z3.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港01|CERA|阿里ECDN, type: vmess, server: y01.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港02|CERA|阿里ECDN, type: vmess, server: y02.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港03|CERA|阿里ECDN, type: vmess, server: y03.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港04|CERA|阿里ECDN, type: vmess, server: y04.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港05|CERA|阿里ECDN, type: vmess, server: y05.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港06|CERA|阿里ECDN, type: vmess, server: y06.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港07|CERA|阿里ECDN, type: vmess, server: y07.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港08|CERA|阿里ECDN, type: vmess, server: y08.kisc23.cc, port: 34501, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港01|DMIT|阿里ECDN, type: vmess, server: y01.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港02|DMIT|阿里ECDN, type: vmess, server: y02.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港03|DMIT|阿里ECDN, type: vmess, server: y03.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港04|DMIT|阿里ECDN, type: vmess, server: y04.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港05|DMIT|阿里ECDN, type: vmess, server: y05.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港06|DMIT|阿里ECDN, type: vmess, server: y06.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港07|DMIT|阿里ECDN, type: vmess, server: y07.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港08|DMIT|阿里ECDN, type: vmess, server: y08.kisc23.cc, port: 34560, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港01|Aperture|AGA, type: vmess, server: y01.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港02|Aperture|AGA, type: vmess, server: y02.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港03|Aperture|AGA, type: vmess, server: y03.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港04|Aperture|AGA, type: vmess, server: y04.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港05|Aperture|AGA, type: vmess, server: y05.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港06|Aperture|AGA, type: vmess, server: y06.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港07|Aperture|AGA, type: vmess, server: y07.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰VIP香港08|Aperture|AGA, type: vmess, server: y08.kisc23.cc, port: 19480, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡01|Aperture|AGA, type: vmess, server: y01.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡02|Aperture|AGA, type: vmess, server: y02.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡03|Aperture|AGA, type: vmess, server: y03.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡04|Aperture|AGA, type: vmess, server: y04.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡05|Aperture|AGA, type: vmess, server: y05.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡06|Aperture|AGA, type: vmess, server: y06.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡07|Aperture|AGA, type: vmess, server: y07.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬VIP新加坡08|Aperture|AGA, type: vmess, server: y08.kisc23.cc, port: 40005, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾01|大哥大Net|AGA, type: vmess, server: y01.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾02|大哥大Net|AGA, type: vmess, server: y02.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾03|大哥大Net|AGA, type: vmess, server: y03.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾04|大哥大Net|AGA, type: vmess, server: y04.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾05|大哥大Net|AGA, type: vmess, server: y05.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾06|大哥大Net|AGA, type: vmess, server: y06.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾07|大哥大Net|AGA, type: vmess, server: y07.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼VIP台湾08|大哥大Net|AGA, type: vmess, server: y08.kisc23.cc, port: 34516, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国01|SK电讯Net|AGA, type: vmess, server: y01.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国02|SK电讯Net|AGA, type: vmess, server: y02.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国03|SK电讯Net|AGA, type: vmess, server: y03.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国04|SK电讯Net|AGA, type: vmess, server: y04.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国05|SK电讯Net|AGA, type: vmess, server: y05.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国06|SK电讯Net|AGA, type: vmess, server: y06.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国07|SK电讯Net|AGA, type: vmess, server: y07.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇷VIP韩国08|SK电讯Net|AGA, type: vmess, server: y08.kisc23.cc, port: 18446, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本01|Aperture|AGA, type: vmess, server: y01.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本02|Aperture|AGA, type: vmess, server: y02.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本03|Aperture|AGA, type: vmess, server: y03.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本04|Aperture|AGA, type: vmess, server: y04.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本05|Aperture|AGA, type: vmess, server: y05.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本06|Aperture|AGA, type: vmess, server: y06.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本07|Aperture|AGA, type: vmess, server: y07.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本08|Aperture|AGA, type: vmess, server: y08.kisc23.cc, port: 40003, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡01|Linode|内网专线, type: vmess, server: y01.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡02|Linode|内网专线, type: vmess, server: y02.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡03|Linode|内网专线, type: vmess, server: y03.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡04|Linode|内网专线, type: vmess, server: y04.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡05|Linode|内网专线, type: vmess, server: y05.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡06|Linode|内网专线, type: vmess, server: y06.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡07|Linode|内网专线, type: vmess, server: y07.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇬新加坡08|Linode|内网专线, type: vmess, server: y08.kisc23.cc, port: 18481, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本01|Linode|内网专线, type: vmess, server: y01.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本02|Linode|内网专线, type: vmess, server: y02.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本03|Linode|内网专线, type: vmess, server: y03.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本04|Linode|内网专线, type: vmess, server: y04.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本05|Linode|内网专线, type: vmess, server: y05.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本06|Linode|内网专线, type: vmess, server: y06.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本07|Linode|内网专线, type: vmess, server: y07.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵日本08|Linode|内网专线, type: vmess, server: y08.kisc23.cc, port: 29211, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港01|HKT|动态家宽, type: vmess, server: y01.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港02|HKT|动态家宽, type: vmess, server: y02.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港03|HKT|动态家宽, type: vmess, server: y03.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港04|HKT|动态家宽, type: vmess, server: y04.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港05|HKT|动态家宽, type: vmess, server: y05.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港06|HKT|动态家宽, type: vmess, server: y06.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港07|HKT|动态家宽, type: vmess, server: y07.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港08|HKT|动态家宽, type: vmess, server: y08.kisc23.cc, port: 46202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港01|HKBN|动态家宽', type: vmess, server: y01.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港02|HKBN|动态家宽', type: vmess, server: y02.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港03|HKBN|动态家宽', type: vmess, server: y03.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港04|HKBN|动态家宽', type: vmess, server: y04.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港05|HKBN|动态家宽', type: vmess, server: y05.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港06|HKBN|动态家宽', type: vmess, server: y06.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港07|HKBN|动态家宽', type: vmess, server: y07.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇭🇰 VIP香港08|HKBN|动态家宽', type: vmess, server: y08.kisc23.cc, port: 34515, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港01|ICABLE|动态家宽, type: vmess, server: y01.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港02|ICABLE|动态家宽, type: vmess, server: y02.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港03|ICABLE|动态家宽, type: vmess, server: y03.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港04|ICABLE|动态家宽, type: vmess, server: y04.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港05|ICABLE|动态家宽, type: vmess, server: y05.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港06|ICABLE|动态家宽, type: vmess, server: y06.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港07|ICABLE|动态家宽, type: vmess, server: y07.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇭🇰香港08|ICABLE|动态家宽, type: vmess, server: y08.kisc23.cc, port: 18445, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾01|HINET|动态家宽, type: vmess, server: y01.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾02|HINET|动态家宽, type: vmess, server: y02.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾03|HINET|动态家宽, type: vmess, server: y03.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾04|HINET|动态家宽, type: vmess, server: y04.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾05|HINET|动态家宽, type: vmess, server: y05.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾06|HINET|动态家宽, type: vmess, server: y06.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾07|HINET|动态家宽, type: vmess, server: y07.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇼台湾08|HINET|动态家宽, type: vmess, server: y08.kisc23.cc, port: 41004, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|纽约|高速中转, type: vmess, server: y01.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|纽约|高速中转, type: vmess, server: y02.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|纽约|高速中转, type: vmess, server: y03.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|纽约|高速中转, type: vmess, server: y04.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|纽约|高速中转, type: vmess, server: y05.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|纽约|高速中转, type: vmess, server: y06.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|纽约|高速中转, type: vmess, server: y07.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|纽约|高速中转, type: vmess, server: y08.kisc23.cc, port: 46203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|费城|高速中转, type: vmess, server: y01.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|费城|高速中转, type: vmess, server: y02.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|费城|高速中转, type: vmess, server: y03.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|费城|高速中转, type: vmess, server: y04.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|费城|高速中转, type: vmess, server: y05.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|费城|高速中转, type: vmess, server: y06.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|费城|高速中转, type: vmess, server: y07.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|费城|高速中转, type: vmess, server: y08.kisc23.cc, port: 46204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|旧金山|高速中转, type: vmess, server: y01.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|旧金山|高速中转, type: vmess, server: y02.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|旧金山|高速中转, type: vmess, server: y03.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|旧金山|高速中转, type: vmess, server: y04.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|旧金山|高速中转, type: vmess, server: y05.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|旧金山|高速中转, type: vmess, server: y06.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|旧金山|高速中转, type: vmess, server: y07.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|旧金山|高速中转, type: vmess, server: y08.kisc23.cc, port: 40011, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|迈阿密|高速中转, type: vmess, server: y01.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|迈阿密|高速中转, type: vmess, server: y02.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|迈阿密|高速中转, type: vmess, server: y03.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|迈阿密|高速中转, type: vmess, server: y04.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|迈阿密|高速中转, type: vmess, server: y05.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|迈阿密|高速中转, type: vmess, server: y06.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|迈阿密|高速中转, type: vmess, server: y07.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|迈阿密|高速中转, type: vmess, server: y08.kisc23.cc, port: 40013, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|费利蒙|高速中转, type: vmess, server: y01.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|费利蒙|高速中转, type: vmess, server: y02.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|费利蒙|高速中转, type: vmess, server: y03.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|费利蒙|高速中转, type: vmess, server: y04.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|费利蒙|高速中转, type: vmess, server: y05.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|费利蒙|高速中转, type: vmess, server: y06.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|费利蒙|高速中转, type: vmess, server: y07.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|费利蒙|高速中转, type: vmess, server: y08.kisc23.cc, port: 40018, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|纽瓦克|高速中转, type: vmess, server: y01.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|纽瓦克|高速中转, type: vmess, server: y02.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|纽瓦克|高速中转, type: vmess, server: y03.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|纽瓦克|高速中转, type: vmess, server: y04.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|纽瓦克|高速中转, type: vmess, server: y05.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|纽瓦克|高速中转, type: vmess, server: y06.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|纽瓦克|高速中转, type: vmess, server: y07.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|纽瓦克|高速中转, type: vmess, server: y08.kisc23.cc, port: 40012, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|西雅图|高速中转, type: vmess, server: y01.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|西雅图|高速中转, type: vmess, server: y02.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|西雅图|高速中转, type: vmess, server: y03.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|西雅图|高速中转, type: vmess, server: y04.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|西雅图|高速中转, type: vmess, server: y05.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|西雅图|高速中转, type: vmess, server: y06.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|西雅图|高速中转, type: vmess, server: y07.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|西雅图|高速中转, type: vmess, server: y08.kisc23.cc, port: 40017, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国01|达拉斯|高速中转, type: vmess, server: y01.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国02|达拉斯|高速中转, type: vmess, server: y02.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国03|达拉斯|高速中转, type: vmess, server: y03.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国04|达拉斯|高速中转, type: vmess, server: y04.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国05|达拉斯|高速中转, type: vmess, server: y05.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国06|达拉斯|高速中转, type: vmess, server: y06.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国07|达拉斯|高速中转, type: vmess, server: y07.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸美国08|达拉斯|高速中转, type: vmess, server: y08.kisc23.cc, port: 40019, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本|BIGLOBE|动态家宽|禁止视频, type: vmess, server: y10.kisc23.cc, port: 18849, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇯🇵VIP日本|SoftBank|动态家宽|禁止视频, type: vmess, server: y10.kisc23.cc, port: 18447, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇨🇦VIP加拿大|TELUS|动态家宽|禁止视频, type: vmess, server: y10.kisc23.cc, port: 52301, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸VIP美国|T-Mobile|移动网络|禁止视频, type: vmess, server: y10.kisc23.cc, port: 17178, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: '🇺🇸VIP美国|AT&T|移动网络|禁止视频', type: vmess, server: y10.kisc23.cc, port: 18477, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸VIP美国|Frontier|动态家宽|禁止视频, type: vmess, server: y10.kisc23.cc, port: 57449, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇺🇸VIP美国|Verizon|动态家宽|禁止视频, type: vmess, server: y10.kisc23.cc, port: 40001, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇵🇭VIP菲律宾|马尼拉|中转|原生, type: vmess, server: y10.kisc23.cc, port: 43201, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇭VIP泰国|芭提雅|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18103, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇰🇭VIP柬埔寨|西哈努克|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18292, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇻🇳VIP越南|胡志明|中转|原生, type: vmess, server: y10.kisc23.cc, port: 17494, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇲🇴VIP澳门特别行政区|中转|原生, type: vmess, server: y10.kisc23.cc, port: 17495, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇮🇩VIP印尼|雅加达|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇲🇾VIP马来西亚|吉隆坡|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18101, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇨🇴VIP哥伦比亚|波哥大|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18172, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇬🇷VIP希腊|雅典|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18108, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇪🇬VIP埃及|开罗|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18348, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇫🇷VIP法国|巴黎|中转|原生, type: vmess, server: y10.kisc23.cc, port: 19299, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇦🇺VIP澳大利亚|悉尼|中转|原生, type: vmess, server: y10.kisc23.cc, port: 19301, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇦🇺VIP澳大利亚|墨尔本|中转|原生, type: vmess, server: y10.kisc23.cc, port: 19302, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇿🇦VIP南非|约翰里斯堡|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18109, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇲🇽VIP墨西哥|瓜达拉哈拉|原生, type: vmess, server: y10.kisc23.cc, port: 41236, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇦🇿VIP阿塞拜疆共和国|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18197, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇷🇴VIP罗马尼亚|布加勒斯特|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18204, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇧🇩VIP孟加拉国|达卡|中转|原生, type: vmess, server: y10.kisc23.cc, port: 43202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇨🇦VIP加拿大|多伦多|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18097, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇨🇿VIP捷克|布拉格|中转|原生, type: vmess, server: y10.kisc23.cc, port: 43203, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇳🇱VIP荷兰|阿姆斯特丹|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18096, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇮🇳VIP印度|新德里|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18198, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇮🇪VIP爱尔兰|都柏林|中转|原生, type: vmess, server: y10.kisc23.cc, port: 46201, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇨🇱VIP智利|圣地亚哥|中转|原生, type: vmess, server: y10.kisc23.cc, port: 46205, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇦🇪VIP阿拉伯联合酋长国|迪拜|中转|原生, type: vmess, server: y10.kisc23.cc, port: 46207, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇸🇦VIP沙特阿拉伯|吉达|中转|原生, type: vmess, server: y10.kisc23.cc, port: 46209, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇬🇧VIP英国|伦敦|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18199, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇩🇪VIP德国|法兰克福|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18100, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇹🇷VIP土耳其|伊斯坦布尔|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18105, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇷🇺VIP俄罗斯|新西伯利亚|中转|原生, type: vmess, server: y10.kisc23.cc, port: 52321, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇦🇷VIP阿根廷|科尔多瓦|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18107, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇷🇺VIP俄罗斯|莫斯科|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18195, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇷🇺VIP巴西|里约热内卢|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18196, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇮🇹VIP意大利|米兰|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18201, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇳🇴VIP挪威|奥斯陆|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18202, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇵🇰VIP巴基斯坦|卡拉奇|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18205, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇧🇬VIP保加利亚|东欧|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18216, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+    - { name: 🇱🇻VIP拉脱维亚|东欧|中转|原生, type: vmess, server: y10.kisc23.cc, port: 18207, uuid: 3ce5575a-cd1d-4547-8523-1a3262060910, alterId: 0, cipher: auto, udp: true }
+proxy-groups:
+    - { name: SELECT, type: select, proxies: [自动选择, 故障转移, 🇭🇰【请保存网址发布页获取最新网址】, 🇭🇰【禁止使用全局代理模式访问国内】, 🇭🇰【91jc01@gmail.com回家邮箱】, '🇭🇰【发布页https://bit.ly/91fby】', 🇭🇰【不要使用自动选择和公告节点】, 🇭🇰【常规国家节点全面支持谷歌gemini】, 🇭🇰【有问题联系官网在线客服处理】, 🇭🇰【91老版本客户端已重新上线】, 🇭🇰HKG01|海外用户专用|DirectAccess, 🇭🇰HKG02|海外用户专用|DirectAccess, 🇸🇬SGP|海外用户专用|DirectAccess, 🇯🇵JPN01|海外用户专用|DirectAccess, 🇺🇸USA01|海外用户专用|DirectAccess, 🇺🇸USA02|海外用户专用|DirectAccess, 🇺🇸USA03|海外用户专用|DirectAccess, 🇺🇸USA04|海外用户专用|DirectAccess, 🇺🇸USA05|海外用户专用|DirectAccess, 🇺🇸USA06|海外用户专用|DirectAccess, 🇹🇼TWN|海外用户专用|DirectAccess, 🇭🇰VIP香港01|高级独享专线, 🇭🇰VIP香港02|高级独享专线, 🇭🇰VIP香港家宽01|高级独享专线, 🇭🇰VIP香港家宽02|高级独享专线, 🇭🇰VIP香港家宽03|高级独享专线, 🇭🇰VIP香港家宽04|高级独享专线, 🇸🇬VIP新加坡01|高级独享专线, 🇸🇬VIP新加坡02|高级独享专线, 🇯🇵VIP日本01|高级独享专线, 🇯🇵VIP日本02|高级独享专线, 🇯🇵VIP日本03|高级独享专线, 🇯🇵VIP日本04|高级独享专线, 🇭🇰VIP香港01|CERA|阿里ECDN, 🇭🇰VIP香港02|CERA|阿里ECDN, 🇭🇰VIP香港03|CERA|阿里ECDN, 🇭🇰VIP香港04|CERA|阿里ECDN, 🇭🇰VIP香港05|CERA|阿里ECDN, 🇭🇰VIP香港06|CERA|阿里ECDN, 🇭🇰VIP香港07|CERA|阿里ECDN, 🇭🇰VIP香港08|CERA|阿里ECDN, 🇭🇰VIP香港01|DMIT|阿里ECDN, 🇭🇰VIP香港02|DMIT|阿里ECDN, 🇭🇰VIP香港03|DMIT|阿里ECDN, 🇭🇰VIP香港04|DMIT|阿里ECDN, 🇭🇰VIP香港05|DMIT|阿里ECDN, 🇭🇰VIP香港06|DMIT|阿里ECDN, 🇭🇰VIP香港07|DMIT|阿里ECDN, 🇭🇰VIP香港08|DMIT|阿里ECDN, 🇭🇰VIP香港01|Aperture|AGA, 🇭🇰VIP香港02|Aperture|AGA, 🇭🇰VIP香港03|Aperture|AGA, 🇭🇰VIP香港04|Aperture|AGA, 🇭🇰VIP香港05|Aperture|AGA, 🇭🇰VIP香港06|Aperture|AGA, 🇭🇰VIP香港07|Aperture|AGA, 🇭🇰VIP香港08|Aperture|AGA, 🇸🇬VIP新加坡01|Aperture|AGA, 🇸🇬VIP新加坡02|Aperture|AGA, 🇸🇬VIP新加坡03|Aperture|AGA, 🇸🇬VIP新加坡04|Aperture|AGA, 🇸🇬VIP新加坡05|Aperture|AGA, 🇸🇬VIP新加坡06|Aperture|AGA, 🇸🇬VIP新加坡07|Aperture|AGA, 🇸🇬VIP新加坡08|Aperture|AGA, 🇹🇼VIP台湾01|大哥大Net|AGA, 🇹🇼VIP台湾02|大哥大Net|AGA, 🇹🇼VIP台湾03|大哥大Net|AGA, 🇹🇼VIP台湾04|大哥大Net|AGA, 🇹🇼VIP台湾05|大哥大Net|AGA, 🇹🇼VIP台湾06|大哥大Net|AGA, 🇹🇼VIP台湾07|大哥大Net|AGA, 🇹🇼VIP台湾08|大哥大Net|AGA, 🇰🇷VIP韩国01|SK电讯Net|AGA, 🇰🇷VIP韩国02|SK电讯Net|AGA, 🇰🇷VIP韩国03|SK电讯Net|AGA, 🇰🇷VIP韩国04|SK电讯Net|AGA, 🇰🇷VIP韩国05|SK电讯Net|AGA, 🇰🇷VIP韩国06|SK电讯Net|AGA, 🇰🇷VIP韩国07|SK电讯Net|AGA, 🇰🇷VIP韩国08|SK电讯Net|AGA, 🇯🇵VIP日本01|Aperture|AGA, 🇯🇵VIP日本02|Aperture|AGA, 🇯🇵VIP日本03|Aperture|AGA, 🇯🇵VIP日本04|Aperture|AGA, 🇯🇵VIP日本05|Aperture|AGA, 🇯🇵VIP日本06|Aperture|AGA, 🇯🇵VIP日本07|Aperture|AGA, 🇯🇵VIP日本08|Aperture|AGA, 🇸🇬新加坡01|Linode|内网专线, 🇸🇬新加坡02|Linode|内网专线, 🇸🇬新加坡03|Linode|内网专线, 🇸🇬新加坡04|Linode|内网专线, 🇸🇬新加坡05|Linode|内网专线, 🇸🇬新加坡06|Linode|内网专线, 🇸🇬新加坡07|Linode|内网专线, 🇸🇬新加坡08|Linode|内网专线, 🇯🇵日本01|Linode|内网专线, 🇯🇵日本02|Linode|内网专线, 🇯🇵日本03|Linode|内网专线, 🇯🇵日本04|Linode|内网专线, 🇯🇵日本05|Linode|内网专线, 🇯🇵日本06|Linode|内网专线, 🇯🇵日本07|Linode|内网专线, 🇯🇵日本08|Linode|内网专线, 🇭🇰香港01|HKT|动态家宽, 🇭🇰香港02|HKT|动态家宽, 🇭🇰香港03|HKT|动态家宽, 🇭🇰香港04|HKT|动态家宽, 🇭🇰香港05|HKT|动态家宽, 🇭🇰香港06|HKT|动态家宽, 🇭🇰香港07|HKT|动态家宽, 🇭🇰香港08|HKT|动态家宽, '🇭🇰 VIP香港01|HKBN|动态家宽', '🇭🇰 VIP香港02|HKBN|动态家宽', '🇭🇰 VIP香港03|HKBN|动态家宽', '🇭🇰 VIP香港04|HKBN|动态家宽', '🇭🇰 VIP香港05|HKBN|动态家宽', '🇭🇰 VIP香港06|HKBN|动态家宽', '🇭🇰 VIP香港07|HKBN|动态家宽', '🇭🇰 VIP香港08|HKBN|动态家宽', 🇭🇰香港01|ICABLE|动态家宽, 🇭🇰香港02|ICABLE|动态家宽, 🇭🇰香港03|ICABLE|动态家宽, 🇭🇰香港04|ICABLE|动态家宽, 🇭🇰香港05|ICABLE|动态家宽, 🇭🇰香港06|ICABLE|动态家宽, 🇭🇰香港07|ICABLE|动态家宽, 🇭🇰香港08|ICABLE|动态家宽, 🇹🇼台湾01|HINET|动态家宽, 🇹🇼台湾02|HINET|动态家宽, 🇹🇼台湾03|HINET|动态家宽, 🇹🇼台湾04|HINET|动态家宽, 🇹🇼台湾05|HINET|动态家宽, 🇹🇼台湾06|HINET|动态家宽, 🇹🇼台湾07|HINET|动态家宽, 🇹🇼台湾08|HINET|动态家宽, 🇺🇸美国01|纽约|高速中转, 🇺🇸美国02|纽约|高速中转, 🇺🇸美国03|纽约|高速中转, 🇺🇸美国04|纽约|高速中转, 🇺🇸美国05|纽约|高速中转, 🇺🇸美国06|纽约|高速中转, 🇺🇸美国07|纽约|高速中转, 🇺🇸美国08|纽约|高速中转, 🇺🇸美国01|费城|高速中转, 🇺🇸美国02|费城|高速中转, 🇺🇸美国03|费城|高速中转, 🇺🇸美国04|费城|高速中转, 🇺🇸美国05|费城|高速中转, 🇺🇸美国06|费城|高速中转, 🇺🇸美国07|费城|高速中转, 🇺🇸美国08|费城|高速中转, 🇺🇸美国01|旧金山|高速中转, 🇺🇸美国02|旧金山|高速中转, 🇺🇸美国03|旧金山|高速中转, 🇺🇸美国04|旧金山|高速中转, 🇺🇸美国05|旧金山|高速中转, 🇺🇸美国06|旧金山|高速中转, 🇺🇸美国07|旧金山|高速中转, 🇺🇸美国08|旧金山|高速中转, 🇺🇸美国01|迈阿密|高速中转, 🇺🇸美国02|迈阿密|高速中转, 🇺🇸美国03|迈阿密|高速中转, 🇺🇸美国04|迈阿密|高速中转, 🇺🇸美国05|迈阿密|高速中转, 🇺🇸美国06|迈阿密|高速中转, 🇺🇸美国07|迈阿密|高速中转, 🇺🇸美国08|迈阿密|高速中转, 🇺🇸美国01|费利蒙|高速中转, 🇺🇸美国02|费利蒙|高速中转, 🇺🇸美国03|费利蒙|高速中转, 🇺🇸美国04|费利蒙|高速中转, 🇺🇸美国05|费利蒙|高速中转, 🇺🇸美国06|费利蒙|高速中转, 🇺🇸美国07|费利蒙|高速中转, 🇺🇸美国08|费利蒙|高速中转, 🇺🇸美国01|纽瓦克|高速中转, 🇺🇸美国02|纽瓦克|高速中转, 🇺🇸美国03|纽瓦克|高速中转, 🇺🇸美国04|纽瓦克|高速中转, 🇺🇸美国05|纽瓦克|高速中转, 🇺🇸美国06|纽瓦克|高速中转, 🇺🇸美国07|纽瓦克|高速中转, 🇺🇸美国08|纽瓦克|高速中转, 🇺🇸美国01|西雅图|高速中转, 🇺🇸美国02|西雅图|高速中转, 🇺🇸美国03|西雅图|高速中转, 🇺🇸美国04|西雅图|高速中转, 🇺🇸美国05|西雅图|高速中转, 🇺🇸美国06|西雅图|高速中转, 🇺🇸美国07|西雅图|高速中转, 🇺🇸美国08|西雅图|高速中转, 🇺🇸美国01|达拉斯|高速中转, 🇺🇸美国02|达拉斯|高速中转, 🇺🇸美国03|达拉斯|高速中转, 🇺🇸美国04|达拉斯|高速中转, 🇺🇸美国05|达拉斯|高速中转, 🇺🇸美国06|达拉斯|高速中转, 🇺🇸美国07|达拉斯|高速中转, 🇺🇸美国08|达拉斯|高速中转, 🇯🇵VIP日本|BIGLOBE|动态家宽|禁止视频, 🇯🇵VIP日本|SoftBank|动态家宽|禁止视频, 🇨🇦VIP加拿大|TELUS|动态家宽|禁止视频, 🇺🇸VIP美国|T-Mobile|移动网络|禁止视频, '🇺🇸VIP美国|AT&T|移动网络|禁止视频', 🇺🇸VIP美国|Frontier|动态家宽|禁止视频, 🇺🇸VIP美国|Verizon|动态家宽|禁止视频, 🇵🇭VIP菲律宾|马尼拉|中转|原生, 🇹🇭VIP泰国|芭提雅|中转|原生, 🇰🇭VIP柬埔寨|西哈努克|中转|原生, 🇻🇳VIP越南|胡志明|中转|原生, 🇲🇴VIP澳门特别行政区|中转|原生, 🇮🇩VIP印尼|雅加达|中转|原生, 🇲🇾VIP马来西亚|吉隆坡|中转|原生, 🇨🇴VIP哥伦比亚|波哥大|中转|原生, 🇬🇷VIP希腊|雅典|中转|原生, 🇪🇬VIP埃及|开罗|中转|原生, 🇫🇷VIP法国|巴黎|中转|原生, 🇦🇺VIP澳大利亚|悉尼|中转|原生, 🇦🇺VIP澳大利亚|墨尔本|中转|原生, 🇿🇦VIP南非|约翰里斯堡|中转|原生, 🇲🇽VIP墨西哥|瓜达拉哈拉|原生, 🇦🇿VIP阿塞拜疆共和国|中转|原生, 🇷🇴VIP罗马尼亚|布加勒斯特|中转|原生, 🇧🇩VIP孟加拉国|达卡|中转|原生, 🇨🇦VIP加拿大|多伦多|中转|原生, 🇨🇿VIP捷克|布拉格|中转|原生, 🇳🇱VIP荷兰|阿姆斯特丹|中转|原生, 🇮🇳VIP印度|新德里|中转|原生, 🇮🇪VIP爱尔兰|都柏林|中转|原生, 🇨🇱VIP智利|圣地亚哥|中转|原生, 🇦🇪VIP阿拉伯联合酋长国|迪拜|中转|原生, 🇸🇦VIP沙特阿拉伯|吉达|中转|原生, 🇬🇧VIP英国|伦敦|中转|原生, 🇩🇪VIP德国|法兰克福|中转|原生, 🇹🇷VIP土耳其|伊斯坦布尔|中转|原生, 🇷🇺VIP俄罗斯|新西伯利亚|中转|原生, 🇦🇷VIP阿根廷|科尔多瓦|中转|原生, 🇷🇺VIP俄罗斯|莫斯科|中转|原生, 🇷🇺VIP巴西|里约热内卢|中转|原生, 🇮🇹VIP意大利|米兰|中转|原生, 🇳🇴VIP挪威|奥斯陆|中转|原生, 🇵🇰VIP巴基斯坦|卡拉奇|中转|原生, 🇧🇬VIP保加利亚|东欧|中转|原生, 🇱🇻VIP拉脱维亚|东欧|中转|原生] }
+    - { name: 自动选择, type: url-test, proxies: [🇭🇰【请保存网址发布页获取最新网址】, 🇭🇰【禁止使用全局代理模式访问国内】, 🇭🇰【91jc01@gmail.com回家邮箱】, '🇭🇰【发布页https://bit.ly/91fby】', 🇭🇰【不要使用自动选择和公告节点】, 🇭🇰【常规国家节点全面支持谷歌gemini】, 🇭🇰【有问题联系官网在线客服处理】, 🇭🇰【91老版本客户端已重新上线】, 🇭🇰HKG01|海外用户专用|DirectAccess, 🇭🇰HKG02|海外用户专用|DirectAccess, 🇸🇬SGP|海外用户专用|DirectAccess, 🇯🇵JPN01|海外用户专用|DirectAccess, 🇺🇸USA01|海外用户专用|DirectAccess, 🇺🇸USA02|海外用户专用|DirectAccess, 🇺🇸USA03|海外用户专用|DirectAccess, 🇺🇸USA04|海外用户专用|DirectAccess, 🇺🇸USA05|海外用户专用|DirectAccess, 🇺🇸USA06|海外用户专用|DirectAccess, 🇹🇼TWN|海外用户专用|DirectAccess, 🇭🇰VIP香港01|高级独享专线, 🇭🇰VIP香港02|高级独享专线, 🇭🇰VIP香港家宽01|高级独享专线, 🇭🇰VIP香港家宽02|高级独享专线, 🇭🇰VIP香港家宽03|高级独享专线, 🇭🇰VIP香港家宽04|高级独享专线, 🇸🇬VIP新加坡01|高级独享专线, 🇸🇬VIP新加坡02|高级独享专线, 🇯🇵VIP日本01|高级独享专线, 🇯🇵VIP日本02|高级独享专线, 🇯🇵VIP日本03|高级独享专线, 🇯🇵VIP日本04|高级独享专线, 🇭🇰VIP香港01|CERA|阿里ECDN, 🇭🇰VIP香港02|CERA|阿里ECDN, 🇭🇰VIP香港03|CERA|阿里ECDN, 🇭🇰VIP香港04|CERA|阿里ECDN, 🇭🇰VIP香港05|CERA|阿里ECDN, 🇭🇰VIP香港06|CERA|阿里ECDN, 🇭🇰VIP香港07|CERA|阿里ECDN, 🇭🇰VIP香港08|CERA|阿里ECDN, 🇭🇰VIP香港01|DMIT|阿里ECDN, 🇭🇰VIP香港02|DMIT|阿里ECDN, 🇭🇰VIP香港03|DMIT|阿里ECDN, 🇭🇰VIP香港04|DMIT|阿里ECDN, 🇭🇰VIP香港05|DMIT|阿里ECDN, 🇭🇰VIP香港06|DMIT|阿里ECDN, 🇭🇰VIP香港07|DMIT|阿里ECDN, 🇭🇰VIP香港08|DMIT|阿里ECDN, 🇭🇰VIP香港01|Aperture|AGA, 🇭🇰VIP香港02|Aperture|AGA, 🇭🇰VIP香港03|Aperture|AGA, 🇭🇰VIP香港04|Aperture|AGA, 🇭🇰VIP香港05|Aperture|AGA, 🇭🇰VIP香港06|Aperture|AGA, 🇭🇰VIP香港07|Aperture|AGA, 🇭🇰VIP香港08|Aperture|AGA, 🇸🇬VIP新加坡01|Aperture|AGA, 🇸🇬VIP新加坡02|Aperture|AGA, 🇸🇬VIP新加坡03|Aperture|AGA, 🇸🇬VIP新加坡04|Aperture|AGA, 🇸🇬VIP新加坡05|Aperture|AGA, 🇸🇬VIP新加坡06|Aperture|AGA, 🇸🇬VIP新加坡07|Aperture|AGA, 🇸🇬VIP新加坡08|Aperture|AGA, 🇹🇼VIP台湾01|大哥大Net|AGA, 🇹🇼VIP台湾02|大哥大Net|AGA, 🇹🇼VIP台湾03|大哥大Net|AGA, 🇹🇼VIP台湾04|大哥大Net|AGA, 🇹🇼VIP台湾05|大哥大Net|AGA, 🇹🇼VIP台湾06|大哥大Net|AGA, 🇹🇼VIP台湾07|大哥大Net|AGA, 🇹🇼VIP台湾08|大哥大Net|AGA, 🇰🇷VIP韩国01|SK电讯Net|AGA, 🇰🇷VIP韩国02|SK电讯Net|AGA, 🇰🇷VIP韩国03|SK电讯Net|AGA, 🇰🇷VIP韩国04|SK电讯Net|AGA, 🇰🇷VIP韩国05|SK电讯Net|AGA, 🇰🇷VIP韩国06|SK电讯Net|AGA, 🇰🇷VIP韩国07|SK电讯Net|AGA, 🇰🇷VIP韩国08|SK电讯Net|AGA, 🇯🇵VIP日本01|Aperture|AGA, 🇯🇵VIP日本02|Aperture|AGA, 🇯🇵VIP日本03|Aperture|AGA, 🇯🇵VIP日本04|Aperture|AGA, 🇯🇵VIP日本05|Aperture|AGA, 🇯🇵VIP日本06|Aperture|AGA, 🇯🇵VIP日本07|Aperture|AGA, 🇯🇵VIP日本08|Aperture|AGA, 🇸🇬新加坡01|Linode|内网专线, 🇸🇬新加坡02|Linode|内网专线, 🇸🇬新加坡03|Linode|内网专线, 🇸🇬新加坡04|Linode|内网专线, 🇸🇬新加坡05|Linode|内网专线, 🇸🇬新加坡06|Linode|内网专线, 🇸🇬新加坡07|Linode|内网专线, 🇸🇬新加坡08|Linode|内网专线, 🇯🇵日本01|Linode|内网专线, 🇯🇵日本02|Linode|内网专线, 🇯🇵日本03|Linode|内网专线, 🇯🇵日本04|Linode|内网专线, 🇯🇵日本05|Linode|内网专线, 🇯🇵日本06|Linode|内网专线, 🇯🇵日本07|Linode|内网专线, 🇯🇵日本08|Linode|内网专线, 🇭🇰香港01|HKT|动态家宽, 🇭🇰香港02|HKT|动态家宽, 🇭🇰香港03|HKT|动态家宽, 🇭🇰香港04|HKT|动态家宽, 🇭🇰香港05|HKT|动态家宽, 🇭🇰香港06|HKT|动态家宽, 🇭🇰香港07|HKT|动态家宽, 🇭🇰香港08|HKT|动态家宽, '🇭🇰 VIP香港01|HKBN|动态家宽', '🇭🇰 VIP香港02|HKBN|动态家宽', '🇭🇰 VIP香港03|HKBN|动态家宽', '🇭🇰 VIP香港04|HKBN|动态家宽', '🇭🇰 VIP香港05|HKBN|动态家宽', '🇭🇰 VIP香港06|HKBN|动态家宽', '🇭🇰 VIP香港07|HKBN|动态家宽', '🇭🇰 VIP香港08|HKBN|动态家宽', 🇭🇰香港01|ICABLE|动态家宽, 🇭🇰香港02|ICABLE|动态家宽, 🇭🇰香港03|ICABLE|动态家宽, 🇭🇰香港04|ICABLE|动态家宽, 🇭🇰香港05|ICABLE|动态家宽, 🇭🇰香港06|ICABLE|动态家宽, 🇭🇰香港07|ICABLE|动态家宽, 🇭🇰香港08|ICABLE|动态家宽, 🇹🇼台湾01|HINET|动态家宽, 🇹🇼台湾02|HINET|动态家宽, 🇹🇼台湾03|HINET|动态家宽, 🇹🇼台湾04|HINET|动态家宽, 🇹🇼台湾05|HINET|动态家宽, 🇹🇼台湾06|HINET|动态家宽, 🇹🇼台湾07|HINET|动态家宽, 🇹🇼台湾08|HINET|动态家宽, 🇺🇸美国01|纽约|高速中转, 🇺🇸美国02|纽约|高速中转, 🇺🇸美国03|纽约|高速中转, 🇺🇸美国04|纽约|高速中转, 🇺🇸美国05|纽约|高速中转, 🇺🇸美国06|纽约|高速中转, 🇺🇸美国07|纽约|高速中转, 🇺🇸美国08|纽约|高速中转, 🇺🇸美国01|费城|高速中转, 🇺🇸美国02|费城|高速中转, 🇺🇸美国03|费城|高速中转, 🇺🇸美国04|费城|高速中转, 🇺🇸美国05|费城|高速中转, 🇺🇸美国06|费城|高速中转, 🇺🇸美国07|费城|高速中转, 🇺🇸美国08|费城|高速中转, 🇺🇸美国01|旧金山|高速中转, 🇺🇸美国02|旧金山|高速中转, 🇺🇸美国03|旧金山|高速中转, 🇺🇸美国04|旧金山|高速中转, 🇺🇸美国05|旧金山|高速中转, 🇺🇸美国06|旧金山|高速中转, 🇺🇸美国07|旧金山|高速中转, 🇺🇸美国08|旧金山|高速中转, 🇺🇸美国01|迈阿密|高速中转, 🇺🇸美国02|迈阿密|高速中转, 🇺🇸美国03|迈阿密|高速中转, 🇺🇸美国04|迈阿密|高速中转, 🇺🇸美国05|迈阿密|高速中转, 🇺🇸美国06|迈阿密|高速中转, 🇺🇸美国07|迈阿密|高速中转, 🇺🇸美国08|迈阿密|高速中转, 🇺🇸美国01|费利蒙|高速中转, 🇺🇸美国02|费利蒙|高速中转, 🇺🇸美国03|费利蒙|高速中转, 🇺🇸美国04|费利蒙|高速中转, 🇺🇸美国05|费利蒙|高速中转, 🇺🇸美国06|费利蒙|高速中转, 🇺🇸美国07|费利蒙|高速中转, 🇺🇸美国08|费利蒙|高速中转, 🇺🇸美国01|纽瓦克|高速中转, 🇺🇸美国02|纽瓦克|高速中转, 🇺🇸美国03|纽瓦克|高速中转, 🇺🇸美国04|纽瓦克|高速中转, 🇺🇸美国05|纽瓦克|高速中转, 🇺🇸美国06|纽瓦克|高速中转, 🇺🇸美国07|纽瓦克|高速中转, 🇺🇸美国08|纽瓦克|高速中转, 🇺🇸美国01|西雅图|高速中转, 🇺🇸美国02|西雅图|高速中转, 🇺🇸美国03|西雅图|高速中转, 🇺🇸美国04|西雅图|高速中转, 🇺🇸美国05|西雅图|高速中转, 🇺🇸美国06|西雅图|高速中转, 🇺🇸美国07|西雅图|高速中转, 🇺🇸美国08|西雅图|高速中转, 🇺🇸美国01|达拉斯|高速中转, 🇺🇸美国02|达拉斯|高速中转, 🇺🇸美国03|达拉斯|高速中转, 🇺🇸美国04|达拉斯|高速中转, 🇺🇸美国05|达拉斯|高速中转, 🇺🇸美国06|达拉斯|高速中转, 🇺🇸美国07|达拉斯|高速中转, 🇺🇸美国08|达拉斯|高速中转, 🇯🇵VIP日本|BIGLOBE|动态家宽|禁止视频, 🇯🇵VIP日本|SoftBank|动态家宽|禁止视频, 🇨🇦VIP加拿大|TELUS|动态家宽|禁止视频, 🇺🇸VIP美国|T-Mobile|移动网络|禁止视频, '🇺🇸VIP美国|AT&T|移动网络|禁止视频', 🇺🇸VIP美国|Frontier|动态家宽|禁止视频, 🇺🇸VIP美国|Verizon|动态家宽|禁止视频, 🇵🇭VIP菲律宾|马尼拉|中转|原生, 🇹🇭VIP泰国|芭提雅|中转|原生, 🇰🇭VIP柬埔寨|西哈努克|中转|原生, 🇻🇳VIP越南|胡志明|中转|原生, 🇲🇴VIP澳门特别行政区|中转|原生, 🇮🇩VIP印尼|雅加达|中转|原生, 🇲🇾VIP马来西亚|吉隆坡|中转|原生, 🇨🇴VIP哥伦比亚|波哥大|中转|原生, 🇬🇷VIP希腊|雅典|中转|原生, 🇪🇬VIP埃及|开罗|中转|原生, 🇫🇷VIP法国|巴黎|中转|原生, 🇦🇺VIP澳大利亚|悉尼|中转|原生, 🇦🇺VIP澳大利亚|墨尔本|中转|原生, 🇿🇦VIP南非|约翰里斯堡|中转|原生, 🇲🇽VIP墨西哥|瓜达拉哈拉|原生, 🇦🇿VIP阿塞拜疆共和国|中转|原生, 🇷🇴VIP罗马尼亚|布加勒斯特|中转|原生, 🇧🇩VIP孟加拉国|达卡|中转|原生, 🇨🇦VIP加拿大|多伦多|中转|原生, 🇨🇿VIP捷克|布拉格|中转|原生, 🇳🇱VIP荷兰|阿姆斯特丹|中转|原生, 🇮🇳VIP印度|新德里|中转|原生, 🇮🇪VIP爱尔兰|都柏林|中转|原生, 🇨🇱VIP智利|圣地亚哥|中转|原生, 🇦🇪VIP阿拉伯联合酋长国|迪拜|中转|原生, 🇸🇦VIP沙特阿拉伯|吉达|中转|原生, 🇬🇧VIP英国|伦敦|中转|原生, 🇩🇪VIP德国|法兰克福|中转|原生, 🇹🇷VIP土耳其|伊斯坦布尔|中转|原生, 🇷🇺VIP俄罗斯|新西伯利亚|中转|原生, 🇦🇷VIP阿根廷|科尔多瓦|中转|原生, 🇷🇺VIP俄罗斯|莫斯科|中转|原生, 🇷🇺VIP巴西|里约热内卢|中转|原生, 🇮🇹VIP意大利|米兰|中转|原生, 🇳🇴VIP挪威|奥斯陆|中转|原生, 🇵🇰VIP巴基斯坦|卡拉奇|中转|原生, 🇧🇬VIP保加利亚|东欧|中转|原生, 🇱🇻VIP拉脱维亚|东欧|中转|原生], url: 'http://cp.cloudflare.com/generate_204', interval: 86400 }
+    - { name: 故障转移, type: fallback, proxies: [🇭🇰【请保存网址发布页获取最新网址】, 🇭🇰【禁止使用全局代理模式访问国内】, 🇭🇰【91jc01@gmail.com回家邮箱】, '🇭🇰【发布页https://bit.ly/91fby】', 🇭🇰【不要使用自动选择和公告节点】, 🇭🇰【常规国家节点全面支持谷歌gemini】, 🇭🇰【有问题联系官网在线客服处理】, 🇭🇰【91老版本客户端已重新上线】, 🇭🇰HKG01|海外用户专用|DirectAccess, 🇭🇰HKG02|海外用户专用|DirectAccess, 🇸🇬SGP|海外用户专用|DirectAccess, 🇯🇵JPN01|海外用户专用|DirectAccess, 🇺🇸USA01|海外用户专用|DirectAccess, 🇺🇸USA02|海外用户专用|DirectAccess, 🇺🇸USA03|海外用户专用|DirectAccess, 🇺🇸USA04|海外用户专用|DirectAccess, 🇺🇸USA05|海外用户专用|DirectAccess, 🇺🇸USA06|海外用户专用|DirectAccess, 🇹🇼TWN|海外用户专用|DirectAccess, 🇭🇰VIP香港01|高级独享专线, 🇭🇰VIP香港02|高级独享专线, 🇭🇰VIP香港家宽01|高级独享专线, 🇭🇰VIP香港家宽02|高级独享专线, 🇭🇰VIP香港家宽03|高级独享专线, 🇭🇰VIP香港家宽04|高级独享专线, 🇸🇬VIP新加坡01|高级独享专线, 🇸🇬VIP新加坡02|高级独享专线, 🇯🇵VIP日本01|高级独享专线, 🇯🇵VIP日本02|高级独享专线, 🇯🇵VIP日本03|高级独享专线, 🇯🇵VIP日本04|高级独享专线, 🇭🇰VIP香港01|CERA|阿里ECDN, 🇭🇰VIP香港02|CERA|阿里ECDN, 🇭🇰VIP香港03|CERA|阿里ECDN, 🇭🇰VIP香港04|CERA|阿里ECDN, 🇭🇰VIP香港05|CERA|阿里ECDN, 🇭🇰VIP香港06|CERA|阿里ECDN, 🇭🇰VIP香港07|CERA|阿里ECDN, 🇭🇰VIP香港08|CERA|阿里ECDN, 🇭🇰VIP香港01|DMIT|阿里ECDN, 🇭🇰VIP香港02|DMIT|阿里ECDN, 🇭🇰VIP香港03|DMIT|阿里ECDN, 🇭🇰VIP香港04|DMIT|阿里ECDN, 🇭🇰VIP香港05|DMIT|阿里ECDN, 🇭🇰VIP香港06|DMIT|阿里ECDN, 🇭🇰VIP香港07|DMIT|阿里ECDN, 🇭🇰VIP香港08|DMIT|阿里ECDN, 🇭🇰VIP香港01|Aperture|AGA, 🇭🇰VIP香港02|Aperture|AGA, 🇭🇰VIP香港03|Aperture|AGA, 🇭🇰VIP香港04|Aperture|AGA, 🇭🇰VIP香港05|Aperture|AGA, 🇭🇰VIP香港06|Aperture|AGA, 🇭🇰VIP香港07|Aperture|AGA, 🇭🇰VIP香港08|Aperture|AGA, 🇸🇬VIP新加坡01|Aperture|AGA, 🇸🇬VIP新加坡02|Aperture|AGA, 🇸🇬VIP新加坡03|Aperture|AGA, 🇸🇬VIP新加坡04|Aperture|AGA, 🇸🇬VIP新加坡05|Aperture|AGA, 🇸🇬VIP新加坡06|Aperture|AGA, 🇸🇬VIP新加坡07|Aperture|AGA, 🇸🇬VIP新加坡08|Aperture|AGA, 🇹🇼VIP台湾01|大哥大Net|AGA, 🇹🇼VIP台湾02|大哥大Net|AGA, 🇹🇼VIP台湾03|大哥大Net|AGA, 🇹🇼VIP台湾04|大哥大Net|AGA, 🇹🇼VIP台湾05|大哥大Net|AGA, 🇹🇼VIP台湾06|大哥大Net|AGA, 🇹🇼VIP台湾07|大哥大Net|AGA, 🇹🇼VIP台湾08|大哥大Net|AGA, 🇰🇷VIP韩国01|SK电讯Net|AGA, 🇰🇷VIP韩国02|SK电讯Net|AGA, 🇰🇷VIP韩国03|SK电讯Net|AGA, 🇰🇷VIP韩国04|SK电讯Net|AGA, 🇰🇷VIP韩国05|SK电讯Net|AGA, 🇰🇷VIP韩国06|SK电讯Net|AGA, 🇰🇷VIP韩国07|SK电讯Net|AGA, 🇰🇷VIP韩国08|SK电讯Net|AGA, 🇯🇵VIP日本01|Aperture|AGA, 🇯🇵VIP日本02|Aperture|AGA, 🇯🇵VIP日本03|Aperture|AGA, 🇯🇵VIP日本04|Aperture|AGA, 🇯🇵VIP日本05|Aperture|AGA, 🇯🇵VIP日本06|Aperture|AGA, 🇯🇵VIP日本07|Aperture|AGA, 🇯🇵VIP日本08|Aperture|AGA, 🇸🇬新加坡01|Linode|内网专线, 🇸🇬新加坡02|Linode|内网专线, 🇸🇬新加坡03|Linode|内网专线, 🇸🇬新加坡04|Linode|内网专线, 🇸🇬新加坡05|Linode|内网专线, 🇸🇬新加坡06|Linode|内网专线, 🇸🇬新加坡07|Linode|内网专线, 🇸🇬新加坡08|Linode|内网专线, 🇯🇵日本01|Linode|内网专线, 🇯🇵日本02|Linode|内网专线, 🇯🇵日本03|Linode|内网专线, 🇯🇵日本04|Linode|内网专线, 🇯🇵日本05|Linode|内网专线, 🇯🇵日本06|Linode|内网专线, 🇯🇵日本07|Linode|内网专线, 🇯🇵日本08|Linode|内网专线, 🇭🇰香港01|HKT|动态家宽, 🇭🇰香港02|HKT|动态家宽, 🇭🇰香港03|HKT|动态家宽, 🇭🇰香港04|HKT|动态家宽, 🇭🇰香港05|HKT|动态家宽, 🇭🇰香港06|HKT|动态家宽, 🇭🇰香港07|HKT|动态家宽, 🇭🇰香港08|HKT|动态家宽, '🇭🇰 VIP香港01|HKBN|动态家宽', '🇭🇰 VIP香港02|HKBN|动态家宽', '🇭🇰 VIP香港03|HKBN|动态家宽', '🇭🇰 VIP香港04|HKBN|动态家宽', '🇭🇰 VIP香港05|HKBN|动态家宽', '🇭🇰 VIP香港06|HKBN|动态家宽', '🇭🇰 VIP香港07|HKBN|动态家宽', '🇭🇰 VIP香港08|HKBN|动态家宽', 🇭🇰香港01|ICABLE|动态家宽, 🇭🇰香港02|ICABLE|动态家宽, 🇭🇰香港03|ICABLE|动态家宽, 🇭🇰香港04|ICABLE|动态家宽, 🇭🇰香港05|ICABLE|动态家宽, 🇭🇰香港06|ICABLE|动态家宽, 🇭🇰香港07|ICABLE|动态家宽, 🇭🇰香港08|ICABLE|动态家宽, 🇹🇼台湾01|HINET|动态家宽, 🇹🇼台湾02|HINET|动态家宽, 🇹🇼台湾03|HINET|动态家宽, 🇹🇼台湾04|HINET|动态家宽, 🇹🇼台湾05|HINET|动态家宽, 🇹🇼台湾06|HINET|动态家宽, 🇹🇼台湾07|HINET|动态家宽, 🇹🇼台湾08|HINET|动态家宽, 🇺🇸美国01|纽约|高速中转, 🇺🇸美国02|纽约|高速中转, 🇺🇸美国03|纽约|高速中转, 🇺🇸美国04|纽约|高速中转, 🇺🇸美国05|纽约|高速中转, 🇺🇸美国06|纽约|高速中转, 🇺🇸美国07|纽约|高速中转, 🇺🇸美国08|纽约|高速中转, 🇺🇸美国01|费城|高速中转, 🇺🇸美国02|费城|高速中转, 🇺🇸美国03|费城|高速中转, 🇺🇸美国04|费城|高速中转, 🇺🇸美国05|费城|高速中转, 🇺🇸美国06|费城|高速中转, 🇺🇸美国07|费城|高速中转, 🇺🇸美国08|费城|高速中转, 🇺🇸美国01|旧金山|高速中转, 🇺🇸美国02|旧金山|高速中转, 🇺🇸美国03|旧金山|高速中转, 🇺🇸美国04|旧金山|高速中转, 🇺🇸美国05|旧金山|高速中转, 🇺🇸美国06|旧金山|高速中转, 🇺🇸美国07|旧金山|高速中转, 🇺🇸美国08|旧金山|高速中转, 🇺🇸美国01|迈阿密|高速中转, 🇺🇸美国02|迈阿密|高速中转, 🇺🇸美国03|迈阿密|高速中转, 🇺🇸美国04|迈阿密|高速中转, 🇺🇸美国05|迈阿密|高速中转, 🇺🇸美国06|迈阿密|高速中转, 🇺🇸美国07|迈阿密|高速中转, 🇺🇸美国08|迈阿密|高速中转, 🇺🇸美国01|费利蒙|高速中转, 🇺🇸美国02|费利蒙|高速中转, 🇺🇸美国03|费利蒙|高速中转, 🇺🇸美国04|费利蒙|高速中转, 🇺🇸美国05|费利蒙|高速中转, 🇺🇸美国06|费利蒙|高速中转, 🇺🇸美国07|费利蒙|高速中转, 🇺🇸美国08|费利蒙|高速中转, 🇺🇸美国01|纽瓦克|高速中转, 🇺🇸美国02|纽瓦克|高速中转, 🇺🇸美国03|纽瓦克|高速中转, 🇺🇸美国04|纽瓦克|高速中转, 🇺🇸美国05|纽瓦克|高速中转, 🇺🇸美国06|纽瓦克|高速中转, 🇺🇸美国07|纽瓦克|高速中转, 🇺🇸美国08|纽瓦克|高速中转, 🇺🇸美国01|西雅图|高速中转, 🇺🇸美国02|西雅图|高速中转, 🇺🇸美国03|西雅图|高速中转, 🇺🇸美国04|西雅图|高速中转, 🇺🇸美国05|西雅图|高速中转, 🇺🇸美国06|西雅图|高速中转, 🇺🇸美国07|西雅图|高速中转, 🇺🇸美国08|西雅图|高速中转, 🇺🇸美国01|达拉斯|高速中转, 🇺🇸美国02|达拉斯|高速中转, 🇺🇸美国03|达拉斯|高速中转, 🇺🇸美国04|达拉斯|高速中转, 🇺🇸美国05|达拉斯|高速中转, 🇺🇸美国06|达拉斯|高速中转, 🇺🇸美国07|达拉斯|高速中转, 🇺🇸美国08|达拉斯|高速中转, 🇯🇵VIP日本|BIGLOBE|动态家宽|禁止视频, 🇯🇵VIP日本|SoftBank|动态家宽|禁止视频, 🇨🇦VIP加拿大|TELUS|动态家宽|禁止视频, 🇺🇸VIP美国|T-Mobile|移动网络|禁止视频, '🇺🇸VIP美国|AT&T|移动网络|禁止视频', 🇺🇸VIP美国|Frontier|动态家宽|禁止视频, 🇺🇸VIP美国|Verizon|动态家宽|禁止视频, 🇵🇭VIP菲律宾|马尼拉|中转|原生, 🇹🇭VIP泰国|芭提雅|中转|原生, 🇰🇭VIP柬埔寨|西哈努克|中转|原生, 🇻🇳VIP越南|胡志明|中转|原生, 🇲🇴VIP澳门特别行政区|中转|原生, 🇮🇩VIP印尼|雅加达|中转|原生, 🇲🇾VIP马来西亚|吉隆坡|中转|原生, 🇨🇴VIP哥伦比亚|波哥大|中转|原生, 🇬🇷VIP希腊|雅典|中转|原生, 🇪🇬VIP埃及|开罗|中转|原生, 🇫🇷VIP法国|巴黎|中转|原生, 🇦🇺VIP澳大利亚|悉尼|中转|原生, 🇦🇺VIP澳大利亚|墨尔本|中转|原生, 🇿🇦VIP南非|约翰里斯堡|中转|原生, 🇲🇽VIP墨西哥|瓜达拉哈拉|原生, 🇦🇿VIP阿塞拜疆共和国|中转|原生, 🇷🇴VIP罗马尼亚|布加勒斯特|中转|原生, 🇧🇩VIP孟加拉国|达卡|中转|原生, 🇨🇦VIP加拿大|多伦多|中转|原生, 🇨🇿VIP捷克|布拉格|中转|原生, 🇳🇱VIP荷兰|阿姆斯特丹|中转|原生, 🇮🇳VIP印度|新德里|中转|原生, 🇮🇪VIP爱尔兰|都柏林|中转|原生, 🇨🇱VIP智利|圣地亚哥|中转|原生, 🇦🇪VIP阿拉伯联合酋长国|迪拜|中转|原生, 🇸🇦VIP沙特阿拉伯|吉达|中转|原生, 🇬🇧VIP英国|伦敦|中转|原生, 🇩🇪VIP德国|法兰克福|中转|原生, 🇹🇷VIP土耳其|伊斯坦布尔|中转|原生, 🇷🇺VIP俄罗斯|新西伯利亚|中转|原生, 🇦🇷VIP阿根廷|科尔多瓦|中转|原生, 🇷🇺VIP俄罗斯|莫斯科|中转|原生, 🇷🇺VIP巴西|里约热内卢|中转|原生, 🇮🇹VIP意大利|米兰|中转|原生, 🇳🇴VIP挪威|奥斯陆|中转|原生, 🇵🇰VIP巴基斯坦|卡拉奇|中转|原生, 🇧🇬VIP保加利亚|东欧|中转|原生, 🇱🇻VIP拉脱维亚|东欧|中转|原生], url: 'http://cp.cloudflare.com/generate_204', interval: 7200 }
+rules:
+    - 'DOMAIN-SUFFIX,services.googleapis.cn,SELECT'
+    - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,SELECT'
+    - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
+    - 'DOMAIN,safebrowsing.googleapis.com,DIRECT'
+    - 'DOMAIN,api.msn.com,SELECT'
+    - 'DOMAIN,api.statsig.com,SELECT'
+    - 'DOMAIN,assets.msn.com,SELECT'
+    - 'DOMAIN,browser-intake-datadoghq.com,SELECT'
+    - 'DOMAIN,chat.openai.com.cdn.cloudflare.net,SELECT'
+    - 'DOMAIN,copilot.microsoft.com,SELECT'
+    - 'DOMAIN,gateway.bingviz.microsoft.net,SELECT'
+    - 'DOMAIN,gateway.bingviz.microsoftapp.net,SELECT'
+    - 'DOMAIN,in.appcenter.ms,SELECT'
+    - 'DOMAIN,location.microsoft.com,SELECT'
+    - 'DOMAIN,odc.officeapps.live.com,SELECT'
+    - 'DOMAIN,openai-api.arkoselabs.com,SELECT'
+    - 'DOMAIN,openaicomproductionae4b.blob.core.windows.net,SELECT'
+    - 'DOMAIN,production-openaicom-storage.azureedge.net,SELECT'
+    - 'DOMAIN,r.bing.com,SELECT'
+    - 'DOMAIN,self.events.data.microsoft.com,SELECT'
+    - 'DOMAIN,services.bingapis.com,SELECT'
+    - 'DOMAIN,static.cloudflareinsights.com,SELECT'
+    - 'DOMAIN,sydney.bing.com,SELECT'
+    - 'DOMAIN,www.bing.com,SELECT'
+    - 'DOMAIN,developer.apple.com,SELECT'
+    - 'DOMAIN-SUFFIX,digicert.com,SELECT'
+    - 'DOMAIN,ocsp.apple.com,SELECT'
+    - 'DOMAIN,ocsp.comodoca.com,SELECT'
+    - 'DOMAIN,ocsp.usertrust.com,SELECT'
+    - 'DOMAIN,ocsp.sectigo.com,SELECT'
+    - 'DOMAIN,openai.com,SELECT'
+    - 'DOMAIN,chatgpt.com,SELECT'
+    - 'DOMAIN,openai.com.cdn.cloudflare.net,SELECT'
+    - 'DOMAIN,challenges.cloudflare.com,SELECT'
+    - 'DOMAIN,sentry.io,SELECT'
+    - 'DOMAIN,cdn.auth0.com,SELECT'
+    - 'DOMAIN,oaiusercontent.com,SELECT'
+    - 'DOMAIN,oaistatic.com,SELECT'
+    - 'DOMAIN,identrust.com,SELECT'
+    - 'DOMAIN,browser-intake-datadoghq.com,SELECT'
+    - 'DOMAIN,ai.com,SELECT'
+    - 'DOMAIN,prodregistryv2.org,SELECT'
+    - 'DOMAIN,featureassets.org,SELECT'
+    - 'DOMAIN,intercom.io,SELECT'
+    - 'DOMAIN,intercomcdn.com,SELECT'
+    - 'DOMAIN,turn.livekit.cloud,SELECT'
+    - 'DOMAIN,launchdarkly.com,SELECT'
+    - 'DOMAIN,algolia.net,SELECT'
+    - 'DOMAIN,api.statsig.com,SELECT'
+    - 'DOMAIN,auth0.com,SELECT'
+    - 'DOMAIN,client-api.arkoselabs.com,SELECT'
+    - 'DOMAIN,events.statsigapi.net,SELECT'
+    - 'DOMAIN,featuregates.org,SELECT'
+    - 'DOMAIN,identrust.com,SELECT'
+    - 'DOMAIN,oaistatic.com,SELECT'
+    - 'DOMAIN,oaiusercontent.com,SELECT'
+    - 'DOMAIN,observeit.net,SELECT'
+    - 'DOMAIN,poe.com,SELECT'
+    - 'DOMAIN,segment.io,SELECT'
+    - 'DOMAIN,sentry.io,SELECT'
+    - 'DOMAIN,ocsp.verisign.net,SELECT'
+    - 'DOMAIN-SUFFIX,apple-dns.net,SELECT'
+    - 'DOMAIN,testflight.apple.com,SELECT'
+    - 'DOMAIN,sandbox.itunes.apple.com,SELECT'
+    - 'DOMAIN,itunes.apple.com,SELECT'
+    - 'DOMAIN-SUFFIX,apps.apple.com,SELECT'
+    - 'DOMAIN-SUFFIX,blobstore.apple.com,SELECT'
+    - 'DOMAIN,cvws.icloud-content.com,SELECT'
+    - 'DOMAIN-SUFFIX,mzstatic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,itunes.apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,icloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,icloud-content.com,DIRECT'
+    - 'DOMAIN-SUFFIX,me.com,DIRECT'
+    - 'DOMAIN-SUFFIX,aaplimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cdn20.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cdn-apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,akadns.net,DIRECT'
+    - 'DOMAIN-SUFFIX,akamaiedge.net,DIRECT'
+    - 'DOMAIN-SUFFIX,edgekey.net,DIRECT'
+    - 'DOMAIN-SUFFIX,mwcloudcdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,mwcname.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple-cloudkit.com,DIRECT'
+    - 'DOMAIN-SUFFIX,apple-mapkit.com,DIRECT'
+    - 'DOMAIN-SUFFIX,126.com,DIRECT'
+    - 'DOMAIN-SUFFIX,126.net,DIRECT'
+    - 'DOMAIN-SUFFIX,127.net,DIRECT'
+    - 'DOMAIN-SUFFIX,163.com,DIRECT'
+    - 'DOMAIN-SUFFIX,360buyimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,36kr.com,DIRECT'
+    - 'DOMAIN-SUFFIX,acfun.tv,DIRECT'
+    - 'DOMAIN-SUFFIX,air-matters.com,DIRECT'
+    - 'DOMAIN-SUFFIX,aixifan.com,DIRECT'
+    - 'DOMAIN-KEYWORD,alicdn,DIRECT'
+    - 'DOMAIN-KEYWORD,alipay,DIRECT'
+    - 'DOMAIN-KEYWORD,taobao,DIRECT'
+    - 'DOMAIN-SUFFIX,amap.com,DIRECT'
+    - 'DOMAIN-SUFFIX,autonavi.com,DIRECT'
+    - 'DOMAIN-KEYWORD,baidu,DIRECT'
+    - 'DOMAIN-SUFFIX,bdimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,bdstatic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,bilivideo.com,DIRECT'
+    - 'DOMAIN-SUFFIX,caiyunapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,clouddn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cnbeta.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cnbetacdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,cootekservice.com,DIRECT'
+    - 'DOMAIN-SUFFIX,csdn.net,DIRECT'
+    - 'DOMAIN-SUFFIX,ctrip.com,DIRECT'
+    - 'DOMAIN-SUFFIX,dgtle.com,DIRECT'
+    - 'DOMAIN-SUFFIX,dianping.com,DIRECT'
+    - 'DOMAIN-SUFFIX,douban.com,DIRECT'
+    - 'DOMAIN-SUFFIX,doubanio.com,DIRECT'
+    - 'DOMAIN-SUFFIX,duokan.com,DIRECT'
+    - 'DOMAIN-SUFFIX,easou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ele.me,DIRECT'
+    - 'DOMAIN-SUFFIX,feng.com,DIRECT'
+    - 'DOMAIN-SUFFIX,fir.im,DIRECT'
+    - 'DOMAIN-SUFFIX,frdic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,g-cores.com,DIRECT'
+    - 'DOMAIN-SUFFIX,godic.net,DIRECT'
+    - 'DOMAIN-SUFFIX,gtimg.com,DIRECT'
+    - 'DOMAIN,cdn.hockeyapp.net,DIRECT'
+    - 'DOMAIN-SUFFIX,hongxiu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,hxcdn.net,DIRECT'
+    - 'DOMAIN-SUFFIX,iciba.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ifeng.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ifengimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ipip.net,DIRECT'
+    - 'DOMAIN-SUFFIX,iqiyi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,jd.com,DIRECT'
+    - 'DOMAIN-SUFFIX,jianshu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,knewone.com,DIRECT'
+    - 'DOMAIN-SUFFIX,le.com,DIRECT'
+    - 'DOMAIN-SUFFIX,lecloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,lemicp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,licdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,luoo.net,DIRECT'
+    - 'DOMAIN-SUFFIX,meituan.com,DIRECT'
+    - 'DOMAIN-SUFFIX,meituan.net,DIRECT'
+    - 'DOMAIN-SUFFIX,mi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miaopai.com,DIRECT'
+    - 'DOMAIN-SUFFIX,microsoft.com,DIRECT'
+    - 'DOMAIN-SUFFIX,microsoftonline.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miui.com,DIRECT'
+    - 'DOMAIN-SUFFIX,miwifi.com,DIRECT'
+    - 'DOMAIN-SUFFIX,mob.com,DIRECT'
+    - 'DOMAIN-SUFFIX,netease.com,DIRECT'
+    - 'DOMAIN-SUFFIX,office.com,DIRECT'
+    - 'DOMAIN-SUFFIX,office365.com,DIRECT'
+    - 'DOMAIN-KEYWORD,officecdn,DIRECT'
+    - 'DOMAIN-SUFFIX,oschina.net,DIRECT'
+    - 'DOMAIN-SUFFIX,ppsimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,pstatp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qcloud.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qdaily.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qdmm.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qhimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qhres.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qidian.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qihucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiniu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiniucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qiyipic.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qq.com,DIRECT'
+    - 'DOMAIN-SUFFIX,qqurl.com,DIRECT'
+    - 'DOMAIN-SUFFIX,rarbg.to,DIRECT'
+    - 'DOMAIN-SUFFIX,ruguoapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,segmentfault.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sinaapp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,smzdm.com,DIRECT'
+    - 'DOMAIN-SUFFIX,snapdrop.net,DIRECT'
+    - 'DOMAIN-SUFFIX,sogou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sogoucdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,sohu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,soku.com,DIRECT'
+    - 'DOMAIN-SUFFIX,speedtest.net,DIRECT'
+    - 'DOMAIN-SUFFIX,sspai.com,DIRECT'
+    - 'DOMAIN-SUFFIX,suning.com,DIRECT'
+    - 'DOMAIN-SUFFIX,taobao.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tencent.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tenpay.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tianyancha.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tmall.com,DIRECT'
+    - 'DOMAIN-SUFFIX,tudou.com,DIRECT'
+    - 'DOMAIN-SUFFIX,umetrip.com,DIRECT'
+    - 'DOMAIN-SUFFIX,upaiyun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,upyun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,veryzhun.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weather.com,DIRECT'
+    - 'DOMAIN-SUFFIX,weibo.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xiami.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xiami.net,DIRECT'
+    - 'DOMAIN-SUFFIX,xiaomicp.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ximalaya.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xmcdn.com,DIRECT'
+    - 'DOMAIN-SUFFIX,xunlei.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yhd.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yihaodianimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,yinxiang.com,DIRECT'
+    - 'DOMAIN-SUFFIX,ykimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,youdao.com,DIRECT'
+    - 'DOMAIN-SUFFIX,youku.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zealer.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zhihu.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zhimg.com,DIRECT'
+    - 'DOMAIN-SUFFIX,zimuzu.tv,DIRECT'
+    - 'DOMAIN-SUFFIX,zoho.com,DIRECT'
+    - 'DOMAIN-KEYWORD,amazon,SELECT'
+    - 'DOMAIN-KEYWORD,google,SELECT'
+    - 'DOMAIN-KEYWORD,gmail,SELECT'
+    - 'DOMAIN-KEYWORD,youtube,SELECT'
+    - 'DOMAIN-KEYWORD,facebook,SELECT'
+    - 'DOMAIN-SUFFIX,fb.me,SELECT'
+    - 'DOMAIN-SUFFIX,fbcdn.net,SELECT'
+    - 'DOMAIN-KEYWORD,twitter,SELECT'
+    - 'DOMAIN-KEYWORD,instagram,SELECT'
+    - 'DOMAIN-KEYWORD,dropbox,SELECT'
+    - 'DOMAIN-SUFFIX,twimg.com,SELECT'
+    - 'DOMAIN-KEYWORD,blogspot,SELECT'
+    - 'DOMAIN-SUFFIX,youtu.be,SELECT'
+    - 'DOMAIN-KEYWORD,whatsapp,SELECT'
+    - 'DOMAIN-KEYWORD,admarvel,REJECT'
+    - 'DOMAIN-KEYWORD,admaster,REJECT'
+    - 'DOMAIN-KEYWORD,adsage,REJECT'
+    - 'DOMAIN-KEYWORD,adsmogo,REJECT'
+    - 'DOMAIN-KEYWORD,adsrvmedia,REJECT'
+    - 'DOMAIN-KEYWORD,adwords,REJECT'
+    - 'DOMAIN-KEYWORD,adservice,REJECT'
+    - 'DOMAIN-SUFFIX,appsflyer.com,REJECT'
+    - 'DOMAIN-KEYWORD,domob,REJECT'
+    - 'DOMAIN-SUFFIX,doubleclick.net,REJECT'
+    - 'DOMAIN-KEYWORD,duomeng,REJECT'
+    - 'DOMAIN-KEYWORD,dwtrack,REJECT'
+    - 'DOMAIN-KEYWORD,guanggao,REJECT'
+    - 'DOMAIN-KEYWORD,lianmeng,REJECT'
+    - 'DOMAIN-SUFFIX,mmstat.com,REJECT'
+    - 'DOMAIN-KEYWORD,mopub,REJECT'
+    - 'DOMAIN-KEYWORD,omgmta,REJECT'
+    - 'DOMAIN-KEYWORD,openx,REJECT'
+    - 'DOMAIN-KEYWORD,partnerad,REJECT'
+    - 'DOMAIN-KEYWORD,pingfore,REJECT'
+    - 'DOMAIN-KEYWORD,supersonicads,REJECT'
+    - 'DOMAIN-KEYWORD,uedas,REJECT'
+    - 'DOMAIN-KEYWORD,umeng,REJECT'
+    - 'DOMAIN-KEYWORD,usage,REJECT'
+    - 'DOMAIN-SUFFIX,vungle.com,REJECT'
+    - 'DOMAIN-KEYWORD,wlmonitor,REJECT'
+    - 'DOMAIN-KEYWORD,zjtoolbar,REJECT'
+    - 'DOMAIN-SUFFIX,9to5mac.com,SELECT'
+    - 'DOMAIN-SUFFIX,abpchina.org,SELECT'
+    - 'DOMAIN-SUFFIX,adblockplus.org,SELECT'
+    - 'DOMAIN-SUFFIX,adobe.com,SELECT'
+    - 'DOMAIN-SUFFIX,akamaized.net,SELECT'
+    - 'DOMAIN-SUFFIX,alfredapp.com,SELECT'
+    - 'DOMAIN-SUFFIX,amplitude.com,SELECT'
+    - 'DOMAIN-SUFFIX,ampproject.org,SELECT'
+    - 'DOMAIN-SUFFIX,android.com,SELECT'
+    - 'DOMAIN-SUFFIX,angularjs.org,SELECT'
+    - 'DOMAIN-SUFFIX,aolcdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,apkpure.com,SELECT'
+    - 'DOMAIN-SUFFIX,appledaily.com,SELECT'
+    - 'DOMAIN-SUFFIX,appshopper.com,SELECT'
+    - 'DOMAIN-SUFFIX,appspot.com,SELECT'
+    - 'DOMAIN-SUFFIX,arcgis.com,SELECT'
+    - 'DOMAIN-SUFFIX,archive.org,SELECT'
+    - 'DOMAIN-SUFFIX,armorgames.com,SELECT'
+    - 'DOMAIN-SUFFIX,aspnetcdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,att.com,SELECT'
+    - 'DOMAIN-SUFFIX,awsstatic.com,SELECT'
+    - 'DOMAIN-SUFFIX,azureedge.net,SELECT'
+    - 'DOMAIN-SUFFIX,azurewebsites.net,SELECT'
+    - 'DOMAIN-SUFFIX,bing.com,SELECT'
+    - 'DOMAIN-SUFFIX,bintray.com,SELECT'
+    - 'DOMAIN-SUFFIX,bit.com,SELECT'
+    - 'DOMAIN-SUFFIX,bit.ly,SELECT'
+    - 'DOMAIN-SUFFIX,bitbucket.org,SELECT'
+    - 'DOMAIN-SUFFIX,bjango.com,SELECT'
+    - 'DOMAIN-SUFFIX,bkrtx.com,SELECT'
+    - 'DOMAIN-SUFFIX,blog.com,SELECT'
+    - 'DOMAIN-SUFFIX,blogcdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,blogger.com,SELECT'
+    - 'DOMAIN-SUFFIX,blogsmithmedia.com,SELECT'
+    - 'DOMAIN-SUFFIX,blogspot.com,SELECT'
+    - 'DOMAIN-SUFFIX,blogspot.hk,SELECT'
+    - 'DOMAIN-SUFFIX,bloomberg.com,SELECT'
+    - 'DOMAIN-SUFFIX,box.com,SELECT'
+    - 'DOMAIN-SUFFIX,box.net,SELECT'
+    - 'DOMAIN-SUFFIX,cachefly.net,SELECT'
+    - 'DOMAIN-SUFFIX,chromium.org,SELECT'
+    - 'DOMAIN-SUFFIX,cl.ly,SELECT'
+    - 'DOMAIN-SUFFIX,cloudflare.com,SELECT'
+    - 'DOMAIN-SUFFIX,cloudfront.net,SELECT'
+    - 'DOMAIN-SUFFIX,cloudmagic.com,SELECT'
+    - 'DOMAIN-SUFFIX,cmail19.com,SELECT'
+    - 'DOMAIN-SUFFIX,cnet.com,SELECT'
+    - 'DOMAIN-SUFFIX,cocoapods.org,SELECT'
+    - 'DOMAIN-SUFFIX,comodoca.com,SELECT'
+    - 'DOMAIN-SUFFIX,crashlytics.com,SELECT'
+    - 'DOMAIN-SUFFIX,culturedcode.com,SELECT'
+    - 'DOMAIN-SUFFIX,d.pr,SELECT'
+    - 'DOMAIN-SUFFIX,danilo.to,SELECT'
+    - 'DOMAIN-SUFFIX,dayone.me,SELECT'
+    - 'DOMAIN-SUFFIX,db.tt,SELECT'
+    - 'DOMAIN-SUFFIX,deskconnect.com,SELECT'
+    - 'DOMAIN-SUFFIX,disq.us,SELECT'
+    - 'DOMAIN-SUFFIX,disqus.com,SELECT'
+    - 'DOMAIN-SUFFIX,disquscdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,dnsimple.com,SELECT'
+    - 'DOMAIN-SUFFIX,docker.com,SELECT'
+    - 'DOMAIN-SUFFIX,dribbble.com,SELECT'
+    - 'DOMAIN-SUFFIX,droplr.com,SELECT'
+    - 'DOMAIN-SUFFIX,duckduckgo.com,SELECT'
+    - 'DOMAIN-SUFFIX,dueapp.com,SELECT'
+    - 'DOMAIN-SUFFIX,dytt8.net,SELECT'
+    - 'DOMAIN-SUFFIX,edgecastcdn.net,SELECT'
+    - 'DOMAIN-SUFFIX,edgekey.net,SELECT'
+    - 'DOMAIN-SUFFIX,edgesuite.net,SELECT'
+    - 'DOMAIN-SUFFIX,engadget.com,SELECT'
+    - 'DOMAIN-SUFFIX,entrust.net,SELECT'
+    - 'DOMAIN-SUFFIX,eurekavpt.com,SELECT'
+    - 'DOMAIN-SUFFIX,evernote.com,SELECT'
+    - 'DOMAIN-SUFFIX,fabric.io,SELECT'
+    - 'DOMAIN-SUFFIX,fast.com,SELECT'
+    - 'DOMAIN-SUFFIX,fastly.net,SELECT'
+    - 'DOMAIN-SUFFIX,fc2.com,SELECT'
+    - 'DOMAIN-SUFFIX,feedburner.com,SELECT'
+    - 'DOMAIN-SUFFIX,feedly.com,SELECT'
+    - 'DOMAIN-SUFFIX,feedsportal.com,SELECT'
+    - 'DOMAIN-SUFFIX,fiftythree.com,SELECT'
+    - 'DOMAIN-SUFFIX,firebaseio.com,SELECT'
+    - 'DOMAIN-SUFFIX,flexibits.com,SELECT'
+    - 'DOMAIN-SUFFIX,flickr.com,SELECT'
+    - 'DOMAIN-SUFFIX,flipboard.com,SELECT'
+    - 'DOMAIN-SUFFIX,g.co,SELECT'
+    - 'DOMAIN-SUFFIX,gabia.net,SELECT'
+    - 'DOMAIN-SUFFIX,geni.us,SELECT'
+    - 'DOMAIN-SUFFIX,gfx.ms,SELECT'
+    - 'DOMAIN-SUFFIX,ggpht.com,SELECT'
+    - 'DOMAIN-SUFFIX,ghostnoteapp.com,SELECT'
+    - 'DOMAIN-SUFFIX,git.io,SELECT'
+    - 'DOMAIN-KEYWORD,github,SELECT'
+    - 'DOMAIN-SUFFIX,globalsign.com,SELECT'
+    - 'DOMAIN-SUFFIX,gmodules.com,SELECT'
+    - 'DOMAIN-SUFFIX,godaddy.com,SELECT'
+    - 'DOMAIN-SUFFIX,golang.org,SELECT'
+    - 'DOMAIN-SUFFIX,gongm.in,SELECT'
+    - 'DOMAIN-SUFFIX,goo.gl,SELECT'
+    - 'DOMAIN-SUFFIX,goodreaders.com,SELECT'
+    - 'DOMAIN-SUFFIX,goodreads.com,SELECT'
+    - 'DOMAIN-SUFFIX,gravatar.com,SELECT'
+    - 'DOMAIN-SUFFIX,gstatic.com,SELECT'
+    - 'DOMAIN-SUFFIX,gvt0.com,SELECT'
+    - 'DOMAIN-SUFFIX,hockeyapp.net,SELECT'
+    - 'DOMAIN-SUFFIX,hotmail.com,SELECT'
+    - 'DOMAIN-SUFFIX,icons8.com,SELECT'
+    - 'DOMAIN-SUFFIX,ifixit.com,SELECT'
+    - 'DOMAIN-SUFFIX,ift.tt,SELECT'
+    - 'DOMAIN-SUFFIX,ifttt.com,SELECT'
+    - 'DOMAIN-SUFFIX,iherb.com,SELECT'
+    - 'DOMAIN-SUFFIX,imageshack.us,SELECT'
+    - 'DOMAIN-SUFFIX,img.ly,SELECT'
+    - 'DOMAIN-SUFFIX,imgur.com,SELECT'
+    - 'DOMAIN-SUFFIX,imore.com,SELECT'
+    - 'DOMAIN-SUFFIX,instapaper.com,SELECT'
+    - 'DOMAIN-SUFFIX,ipn.li,SELECT'
+    - 'DOMAIN-SUFFIX,is.gd,SELECT'
+    - 'DOMAIN-SUFFIX,issuu.com,SELECT'
+    - 'DOMAIN-SUFFIX,itgonglun.com,SELECT'
+    - 'DOMAIN-SUFFIX,itun.es,SELECT'
+    - 'DOMAIN-SUFFIX,ixquick.com,SELECT'
+    - 'DOMAIN-SUFFIX,j.mp,SELECT'
+    - 'DOMAIN-SUFFIX,js.revsci.net,SELECT'
+    - 'DOMAIN-SUFFIX,jshint.com,SELECT'
+    - 'DOMAIN-SUFFIX,jtvnw.net,SELECT'
+    - 'DOMAIN-SUFFIX,justgetflux.com,SELECT'
+    - 'DOMAIN-SUFFIX,kat.cr,SELECT'
+    - 'DOMAIN-SUFFIX,klip.me,SELECT'
+    - 'DOMAIN-SUFFIX,libsyn.com,SELECT'
+    - 'DOMAIN-SUFFIX,linkedin.com,SELECT'
+    - 'DOMAIN-SUFFIX,line-apps.com,SELECT'
+    - 'DOMAIN-SUFFIX,linode.com,SELECT'
+    - 'DOMAIN-SUFFIX,lithium.com,SELECT'
+    - 'DOMAIN-SUFFIX,littlehj.com,SELECT'
+    - 'DOMAIN-SUFFIX,live.com,SELECT'
+    - 'DOMAIN-SUFFIX,live.net,SELECT'
+    - 'DOMAIN-SUFFIX,livefilestore.com,SELECT'
+    - 'DOMAIN-SUFFIX,llnwd.net,SELECT'
+    - 'DOMAIN-SUFFIX,macid.co,SELECT'
+    - 'DOMAIN-SUFFIX,macromedia.com,SELECT'
+    - 'DOMAIN-SUFFIX,macrumors.com,SELECT'
+    - 'DOMAIN-SUFFIX,mashable.com,SELECT'
+    - 'DOMAIN-SUFFIX,mathjax.org,SELECT'
+    - 'DOMAIN-SUFFIX,medium.com,SELECT'
+    - 'DOMAIN-SUFFIX,mega.co.nz,SELECT'
+    - 'DOMAIN-SUFFIX,mega.nz,SELECT'
+    - 'DOMAIN-SUFFIX,megaupload.com,SELECT'
+    - 'DOMAIN-SUFFIX,microsofttranslator.com,SELECT'
+    - 'DOMAIN-SUFFIX,mindnode.com,SELECT'
+    - 'DOMAIN-SUFFIX,mobile01.com,SELECT'
+    - 'DOMAIN-SUFFIX,modmyi.com,SELECT'
+    - 'DOMAIN-SUFFIX,msedge.net,SELECT'
+    - 'DOMAIN-SUFFIX,myfontastic.com,SELECT'
+    - 'DOMAIN-SUFFIX,name.com,SELECT'
+    - 'DOMAIN-SUFFIX,nextmedia.com,SELECT'
+    - 'DOMAIN-SUFFIX,nsstatic.net,SELECT'
+    - 'DOMAIN-SUFFIX,nssurge.com,SELECT'
+    - 'DOMAIN-SUFFIX,nyt.com,SELECT'
+    - 'DOMAIN-SUFFIX,nytimes.com,SELECT'
+    - 'DOMAIN-SUFFIX,omnigroup.com,SELECT'
+    - 'DOMAIN-SUFFIX,onedrive.com,SELECT'
+    - 'DOMAIN-SUFFIX,onenote.com,SELECT'
+    - 'DOMAIN-SUFFIX,ooyala.com,SELECT'
+    - 'DOMAIN-SUFFIX,openvpn.net,SELECT'
+    - 'DOMAIN-SUFFIX,openwrt.org,SELECT'
+    - 'DOMAIN-SUFFIX,orkut.com,SELECT'
+    - 'DOMAIN-SUFFIX,osxdaily.com,SELECT'
+    - 'DOMAIN-SUFFIX,outlook.com,SELECT'
+    - 'DOMAIN-SUFFIX,ow.ly,SELECT'
+    - 'DOMAIN-SUFFIX,paddleapi.com,SELECT'
+    - 'DOMAIN-SUFFIX,parallels.com,SELECT'
+    - 'DOMAIN-SUFFIX,parse.com,SELECT'
+    - 'DOMAIN-SUFFIX,pdfexpert.com,SELECT'
+    - 'DOMAIN-SUFFIX,periscope.tv,SELECT'
+    - 'DOMAIN-SUFFIX,pinboard.in,SELECT'
+    - 'DOMAIN-SUFFIX,pinterest.com,SELECT'
+    - 'DOMAIN-SUFFIX,pixelmator.com,SELECT'
+    - 'DOMAIN-SUFFIX,pixiv.net,SELECT'
+    - 'DOMAIN-SUFFIX,playpcesor.com,SELECT'
+    - 'DOMAIN-SUFFIX,playstation.com,SELECT'
+    - 'DOMAIN-SUFFIX,playstation.com.hk,SELECT'
+    - 'DOMAIN-SUFFIX,playstation.net,SELECT'
+    - 'DOMAIN-SUFFIX,playstationnetwork.com,SELECT'
+    - 'DOMAIN-SUFFIX,pushwoosh.com,SELECT'
+    - 'DOMAIN-SUFFIX,rime.im,SELECT'
+    - 'DOMAIN-SUFFIX,servebom.com,SELECT'
+    - 'DOMAIN-SUFFIX,sfx.ms,SELECT'
+    - 'DOMAIN-SUFFIX,shadowsocks.org,SELECT'
+    - 'DOMAIN-SUFFIX,sharethis.com,SELECT'
+    - 'DOMAIN-SUFFIX,shazam.com,SELECT'
+    - 'DOMAIN-SUFFIX,skype.com,SELECT'
+    - 'DOMAIN-SUFFIX,smartdnsSELECT.com,SELECT'
+    - 'DOMAIN-SUFFIX,smartmailcloud.com,SELECT'
+    - 'DOMAIN-SUFFIX,sndcdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,sony.com,SELECT'
+    - 'DOMAIN-SUFFIX,soundcloud.com,SELECT'
+    - 'DOMAIN-SUFFIX,sourceforge.net,SELECT'
+    - 'DOMAIN-SUFFIX,spotify.com,SELECT'
+    - 'DOMAIN-SUFFIX,squarespace.com,SELECT'
+    - 'DOMAIN-SUFFIX,sstatic.net,SELECT'
+    - 'DOMAIN-SUFFIX,st.luluku.pw,SELECT'
+    - 'DOMAIN-SUFFIX,stackoverflow.com,SELECT'
+    - 'DOMAIN-SUFFIX,startpage.com,SELECT'
+    - 'DOMAIN-SUFFIX,staticflickr.com,SELECT'
+    - 'DOMAIN-SUFFIX,steamcommunity.com,SELECT'
+    - 'DOMAIN-SUFFIX,symauth.com,SELECT'
+    - 'DOMAIN-SUFFIX,symcb.com,SELECT'
+    - 'DOMAIN-SUFFIX,symcd.com,SELECT'
+    - 'DOMAIN-SUFFIX,tapbots.com,SELECT'
+    - 'DOMAIN-SUFFIX,tapbots.net,SELECT'
+    - 'DOMAIN-SUFFIX,tdesktop.com,SELECT'
+    - 'DOMAIN-SUFFIX,techcrunch.com,SELECT'
+    - 'DOMAIN-SUFFIX,techsmith.com,SELECT'
+    - 'DOMAIN-SUFFIX,thepiratebay.org,SELECT'
+    - 'DOMAIN-SUFFIX,theverge.com,SELECT'
+    - 'DOMAIN-SUFFIX,time.com,SELECT'
+    - 'DOMAIN-SUFFIX,timeinc.net,SELECT'
+    - 'DOMAIN-SUFFIX,tiny.cc,SELECT'
+    - 'DOMAIN-SUFFIX,tinypic.com,SELECT'
+    - 'DOMAIN-SUFFIX,tmblr.co,SELECT'
+    - 'DOMAIN-SUFFIX,todoist.com,SELECT'
+    - 'DOMAIN-SUFFIX,trello.com,SELECT'
+    - 'DOMAIN-SUFFIX,trustasiassl.com,SELECT'
+    - 'DOMAIN-SUFFIX,tumblr.co,SELECT'
+    - 'DOMAIN-SUFFIX,tumblr.com,SELECT'
+    - 'DOMAIN-SUFFIX,tweetdeck.com,SELECT'
+    - 'DOMAIN-SUFFIX,tweetmarker.net,SELECT'
+    - 'DOMAIN-SUFFIX,twitch.tv,SELECT'
+    - 'DOMAIN-SUFFIX,txmblr.com,SELECT'
+    - 'DOMAIN-SUFFIX,typekit.net,SELECT'
+    - 'DOMAIN-SUFFIX,ubertags.com,SELECT'
+    - 'DOMAIN-SUFFIX,ublock.org,SELECT'
+    - 'DOMAIN-SUFFIX,ubnt.com,SELECT'
+    - 'DOMAIN-SUFFIX,ulyssesapp.com,SELECT'
+    - 'DOMAIN-SUFFIX,urchin.com,SELECT'
+    - 'DOMAIN-SUFFIX,usertrust.com,SELECT'
+    - 'DOMAIN-SUFFIX,v.gd,SELECT'
+    - 'DOMAIN-SUFFIX,v2ex.com,SELECT'
+    - 'DOMAIN-SUFFIX,vimeo.com,SELECT'
+    - 'DOMAIN-SUFFIX,vimeocdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,vine.co,SELECT'
+    - 'DOMAIN-SUFFIX,vivaldi.com,SELECT'
+    - 'DOMAIN-SUFFIX,vox-cdn.com,SELECT'
+    - 'DOMAIN-SUFFIX,vsco.co,SELECT'
+    - 'DOMAIN-SUFFIX,vultr.com,SELECT'
+    - 'DOMAIN-SUFFIX,w.org,SELECT'
+    - 'DOMAIN-SUFFIX,w3schools.com,SELECT'
+    - 'DOMAIN-SUFFIX,webtype.com,SELECT'
+    - 'DOMAIN-SUFFIX,wikiwand.com,SELECT'
+    - 'DOMAIN-SUFFIX,wikileaks.org,SELECT'
+    - 'DOMAIN-SUFFIX,wikimedia.org,SELECT'
+    - 'DOMAIN-SUFFIX,wikipedia.com,SELECT'
+    - 'DOMAIN-SUFFIX,wikipedia.org,SELECT'
+    - 'DOMAIN-SUFFIX,windows.com,SELECT'
+    - 'DOMAIN-SUFFIX,windows.net,SELECT'
+    - 'DOMAIN-SUFFIX,wire.com,SELECT'
+    - 'DOMAIN-SUFFIX,wordpress.com,SELECT'
+    - 'DOMAIN-SUFFIX,workflowy.com,SELECT'
+    - 'DOMAIN-SUFFIX,wp.com,SELECT'
+    - 'DOMAIN-SUFFIX,wsj.com,SELECT'
+    - 'DOMAIN-SUFFIX,wsj.net,SELECT'
+    - 'DOMAIN-SUFFIX,xda-developers.com,SELECT'
+    - 'DOMAIN-SUFFIX,xeeno.com,SELECT'
+    - 'DOMAIN-SUFFIX,xiti.com,SELECT'
+    - 'DOMAIN-SUFFIX,yahoo.com,SELECT'
+    - 'DOMAIN-SUFFIX,yimg.com,SELECT'
+    - 'DOMAIN-SUFFIX,ying.com,SELECT'
+    - 'DOMAIN-SUFFIX,yoyo.org,SELECT'
+    - 'DOMAIN-SUFFIX,ytimg.com,SELECT'
+    - 'DOMAIN-SUFFIX,telegra.ph,SELECT'
+    - 'DOMAIN-SUFFIX,telegram.org,SELECT'
+    - 'IP-CIDR,91.108.4.0/22,SELECT,no-resolve'
+    - 'IP-CIDR,91.108.8.0/21,SELECT,no-resolve'
+    - 'IP-CIDR,91.108.16.0/22,SELECT,no-resolve'
+    - 'IP-CIDR,91.108.56.0/22,SELECT,no-resolve'
+    - 'IP-CIDR,149.154.160.0/20,SELECT,no-resolve'
+    - 'IP-CIDR6,2001:67c:4e8::/48,SELECT,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23d::/48,SELECT,no-resolve'
+    - 'IP-CIDR6,2001:b28:f23f::/48,SELECT,no-resolve'
+    - 'IP-CIDR,120.232.181.162/32,SELECT,no-resolve'
+    - 'IP-CIDR,120.241.147.226/32,SELECT,no-resolve'
+    - 'IP-CIDR,120.253.253.226/32,SELECT,no-resolve'
+    - 'IP-CIDR,120.253.255.162/32,SELECT,no-resolve'
+    - 'IP-CIDR,120.253.255.34/32,SELECT,no-resolve'
+    - 'IP-CIDR,120.253.255.98/32,SELECT,no-resolve'
+    - 'IP-CIDR,180.163.150.162/32,SELECT,no-resolve'
+    - 'IP-CIDR,180.163.150.34/32,SELECT,no-resolve'
+    - 'IP-CIDR,180.163.151.162/32,SELECT,no-resolve'
+    - 'IP-CIDR,180.163.151.34/32,SELECT,no-resolve'
+    - 'IP-CIDR,203.208.39.0/24,SELECT,no-resolve'
+    - 'IP-CIDR,203.208.40.0/24,SELECT,no-resolve'
+    - 'IP-CIDR,203.208.41.0/24,SELECT,no-resolve'
+    - 'IP-CIDR,203.208.43.0/24,SELECT,no-resolve'
+    - 'IP-CIDR,203.208.50.0/24,SELECT,no-resolve'
+    - 'IP-CIDR,220.181.174.162/32,SELECT,no-resolve'
+    - 'IP-CIDR,220.181.174.226/32,SELECT,no-resolve'
+    - 'IP-CIDR,220.181.174.34/32,SELECT,no-resolve'
+    - 'DOMAIN,injections.adguard.org,DIRECT'
+    - 'DOMAIN,local.adguard.org,DIRECT'
+    - 'DOMAIN-SUFFIX,local,DIRECT'
+    - 'IP-CIDR,127.0.0.0/8,DIRECT'
+    - 'IP-CIDR,172.16.0.0/12,DIRECT'
+    - 'IP-CIDR,192.168.0.0/16,DIRECT'
+    - 'IP-CIDR,10.0.0.0/8,DIRECT'
+    - 'IP-CIDR,17.0.0.0/8,DIRECT'
+    - 'IP-CIDR,100.64.0.0/10,DIRECT'
+    - 'IP-CIDR,224.0.0.0/4,DIRECT'
+    - 'IP-CIDR6,fe80::/10,DIRECT'
+    - 'DOMAIN-SUFFIX,cn,DIRECT'
+    - 'DOMAIN-KEYWORD,-cn,DIRECT'
+    - 'GEOIP,CN,DIRECT'
+    - 'MATCH,SELECT'
