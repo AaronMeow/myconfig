@@ -53,7 +53,7 @@ proxies:
     alterId: 0
     cipher: auto
     udp: true
-  - name: "\U0001F1ED\U0001F1F0【有问题联系官网在线客服处理】"
+  - name: "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
     type: vmess
     server: y07.viuin39.cc
     port: 34560
@@ -61,7 +61,7 @@ proxies:
     alterId: 0
     cipher: auto
     udp: true
-  - name: "\U0001F1ED\U0001F1F0【91老版本客户端已重新上线】"
+  - name: "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
     type: vmess
     server: y08.viuin39.cc
     port: 34560
@@ -1873,8 +1873,8 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
       - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【有问题联系官网在线客服处理】"
-      - "\U0001F1ED\U0001F1F0【91老版本客户端已重新上线】"
+      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
+      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2108,8 +2108,8 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
       - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【有问题联系官网在线客服处理】"
-      - "\U0001F1ED\U0001F1F0【91老版本客户端已重新上线】"
+      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
+      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2334,7 +2334,7 @@ proxy-groups:
       - "\U0001F1F5\U0001F1F0VIP巴基斯坦|卡拉奇|中转|原生"
       - "\U0001F1E7\U0001F1ECVIP保加利亚|东欧|中转|原生"
       - "\U0001F1F1\U0001F1FBVIP拉脱维亚|东欧|中转|原生"
-    url: 'http://cp.cloudflare.com/generate_204'
+    url: 'http://www.gstatic.com/generate_204'
     interval: 86400
   - name: 故障转移
     type: fallback
@@ -2345,8 +2345,8 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
       - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【有问题联系官网在线客服处理】"
-      - "\U0001F1ED\U0001F1F0【91老版本客户端已重新上线】"
+      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
+      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2571,7 +2571,7 @@ proxy-groups:
       - "\U0001F1F5\U0001F1F0VIP巴基斯坦|卡拉奇|中转|原生"
       - "\U0001F1E7\U0001F1ECVIP保加利亚|东欧|中转|原生"
       - "\U0001F1F1\U0001F1FBVIP拉脱维亚|东欧|中转|原生"
-    url: 'http://cp.cloudflare.com/generate_204'
+    url: 'http://www.gstatic.com/generate_204'
     interval: 7200
   - name: GLOBAL
     type: select
@@ -2584,8 +2584,8 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
       - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【有问题联系官网在线客服处理】"
-      - "\U0001F1ED\U0001F1F0【91老版本客户端已重新上线】"
+      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
+      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2815,62 +2815,12 @@ rules:
   - 'DOMAIN-SUFFIX,xn--ngstr-lra8j.com,SELECT'
   - 'DOMAIN,safebrowsing.urlsec.qq.com,DIRECT'
   - 'DOMAIN,safebrowsing.googleapis.com,DIRECT'
-  - 'DOMAIN,api.msn.com,SELECT'
-  - 'DOMAIN,api.statsig.com,SELECT'
-  - 'DOMAIN,assets.msn.com,SELECT'
-  - 'DOMAIN,browser-intake-datadoghq.com,SELECT'
-  - 'DOMAIN,chat.openai.com.cdn.cloudflare.net,SELECT'
-  - 'DOMAIN,copilot.microsoft.com,SELECT'
-  - 'DOMAIN,gateway.bingviz.microsoft.net,SELECT'
-  - 'DOMAIN,gateway.bingviz.microsoftapp.net,SELECT'
-  - 'DOMAIN,in.appcenter.ms,SELECT'
-  - 'DOMAIN,location.microsoft.com,SELECT'
-  - 'DOMAIN,odc.officeapps.live.com,SELECT'
-  - 'DOMAIN,openai-api.arkoselabs.com,SELECT'
-  - 'DOMAIN,openaicomproductionae4b.blob.core.windows.net,SELECT'
-  - 'DOMAIN,production-openaicom-storage.azureedge.net,SELECT'
-  - 'DOMAIN,r.bing.com,SELECT'
-  - 'DOMAIN,self.events.data.microsoft.com,SELECT'
-  - 'DOMAIN,services.bingapis.com,SELECT'
-  - 'DOMAIN,static.cloudflareinsights.com,SELECT'
-  - 'DOMAIN,sydney.bing.com,SELECT'
-  - 'DOMAIN,www.bing.com,SELECT'
   - 'DOMAIN,developer.apple.com,SELECT'
   - 'DOMAIN-SUFFIX,digicert.com,SELECT'
   - 'DOMAIN,ocsp.apple.com,SELECT'
   - 'DOMAIN,ocsp.comodoca.com,SELECT'
   - 'DOMAIN,ocsp.usertrust.com,SELECT'
   - 'DOMAIN,ocsp.sectigo.com,SELECT'
-  - 'DOMAIN,openai.com,SELECT'
-  - 'DOMAIN,chatgpt.com,SELECT'
-  - 'DOMAIN,openai.com.cdn.cloudflare.net,SELECT'
-  - 'DOMAIN,challenges.cloudflare.com,SELECT'
-  - 'DOMAIN,sentry.io,SELECT'
-  - 'DOMAIN,cdn.auth0.com,SELECT'
-  - 'DOMAIN,oaiusercontent.com,SELECT'
-  - 'DOMAIN,oaistatic.com,SELECT'
-  - 'DOMAIN,identrust.com,SELECT'
-  - 'DOMAIN,browser-intake-datadoghq.com,SELECT'
-  - 'DOMAIN,ai.com,SELECT'
-  - 'DOMAIN,prodregistryv2.org,SELECT'
-  - 'DOMAIN,featureassets.org,SELECT'
-  - 'DOMAIN,intercom.io,SELECT'
-  - 'DOMAIN,intercomcdn.com,SELECT'
-  - 'DOMAIN,turn.livekit.cloud,SELECT'
-  - 'DOMAIN,launchdarkly.com,SELECT'
-  - 'DOMAIN,algolia.net,SELECT'
-  - 'DOMAIN,api.statsig.com,SELECT'
-  - 'DOMAIN,auth0.com,SELECT'
-  - 'DOMAIN,client-api.arkoselabs.com,SELECT'
-  - 'DOMAIN,events.statsigapi.net,SELECT'
-  - 'DOMAIN,featuregates.org,SELECT'
-  - 'DOMAIN,identrust.com,SELECT'
-  - 'DOMAIN,oaistatic.com,SELECT'
-  - 'DOMAIN,oaiusercontent.com,SELECT'
-  - 'DOMAIN,observeit.net,SELECT'
-  - 'DOMAIN,poe.com,SELECT'
-  - 'DOMAIN,segment.io,SELECT'
-  - 'DOMAIN,sentry.io,SELECT'
   - 'DOMAIN,ocsp.verisign.net,SELECT'
   - 'DOMAIN-SUFFIX,apple-dns.net,SELECT'
   - 'DOMAIN,testflight.apple.com,SELECT'
@@ -2912,6 +2862,7 @@ rules:
   - 'DOMAIN-KEYWORD,baidu,DIRECT'
   - 'DOMAIN-SUFFIX,bdimg.com,DIRECT'
   - 'DOMAIN-SUFFIX,bdstatic.com,DIRECT'
+  - 'DOMAIN-SUFFIX,bilibili.com,DIRECT'
   - 'DOMAIN-SUFFIX,bilivideo.com,DIRECT'
   - 'DOMAIN-SUFFIX,caiyunapp.com,DIRECT'
   - 'DOMAIN-SUFFIX,clouddn.com,DIRECT'
