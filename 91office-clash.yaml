@@ -7,7 +7,7 @@ external-controller: '127.0.0.1:9090'
 proxies:
   - name: "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -15,7 +15,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -23,47 +23,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
     type: vmess
-    server: y03.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -159,7 +119,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 34501
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -167,7 +127,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 34501
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -175,47 +135,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
     type: vmess
-    server: y03.viuin39.cc
-    port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港04|CERA|阿里ECDN"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港05|CERA|阿里ECDN"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港06|CERA|阿里ECDN"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港07|CERA|阿里ECDN"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港08|CERA|阿里ECDN"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 34501
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -223,7 +143,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -231,7 +151,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -239,47 +159,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
     type: vmess
-    server: y03.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港04|DMIT|阿里ECDN"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港05|DMIT|阿里ECDN"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港06|DMIT|阿里ECDN"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港07|DMIT|阿里ECDN"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港08|DMIT|阿里ECDN"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -287,7 +167,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 19480
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -295,7 +175,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 19480
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -303,47 +183,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
     type: vmess
-    server: y03.viuin39.cc
-    port: 19480
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港04|Aperture|AGA"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 19480
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港05|Aperture|AGA"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 19480
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港06|Aperture|AGA"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 19480
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港07|Aperture|AGA"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 19480
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港08|Aperture|AGA"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 19480
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -351,7 +191,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1ECVIP新加坡01|Aperture|AGA"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40005
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -359,7 +199,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40005
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -367,47 +207,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1ECVIP新加坡03|Aperture|AGA"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40005
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1ECVIP新加坡04|Aperture|AGA"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40005
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1ECVIP新加坡05|Aperture|AGA"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40005
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1ECVIP新加坡06|Aperture|AGA"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40005
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1ECVIP新加坡07|Aperture|AGA"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40005
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1ECVIP新加坡08|Aperture|AGA"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40005
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -415,7 +215,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FCVIP台湾01|大哥大Net|AGA"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 34516
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -423,7 +223,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 34516
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -431,47 +231,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FCVIP台湾03|大哥大Net|AGA"
     type: vmess
-    server: y03.viuin39.cc
-    port: 34516
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FCVIP台湾04|大哥大Net|AGA"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 34516
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FCVIP台湾05|大哥大Net|AGA"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 34516
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FCVIP台湾06|大哥大Net|AGA"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 34516
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FCVIP台湾07|大哥大Net|AGA"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 34516
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FCVIP台湾08|大哥大Net|AGA"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 34516
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -479,7 +239,7 @@ proxies:
     udp: true
   - name: "\U0001F1F0\U0001F1F7VIP韩国01|SK电讯Net|AGA"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 18446
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -487,7 +247,7 @@ proxies:
     udp: true
   - name: "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 18446
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -495,47 +255,7 @@ proxies:
     udp: true
   - name: "\U0001F1F0\U0001F1F7VIP韩国03|SK电讯Net|AGA"
     type: vmess
-    server: y03.viuin39.cc
-    port: 18446
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F0\U0001F1F7VIP韩国04|SK电讯Net|AGA"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 18446
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F0\U0001F1F7VIP韩国05|SK电讯Net|AGA"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 18446
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F0\U0001F1F7VIP韩国06|SK电讯Net|AGA"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 18446
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F0\U0001F1F7VIP韩国07|SK电讯Net|AGA"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 18446
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F0\U0001F1F7VIP韩国08|SK电讯Net|AGA"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 18446
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -543,7 +263,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本01|Aperture|AGA"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40003
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -551,7 +271,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40003
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -559,47 +279,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本03|Aperture|AGA"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40003
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5VIP日本04|Aperture|AGA"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40003
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5VIP日本05|Aperture|AGA"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40003
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5VIP日本06|Aperture|AGA"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40003
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5VIP日本07|Aperture|AGA"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40003
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5VIP日本08|Aperture|AGA"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40003
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -607,7 +287,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1EC新加坡01|Linode|内网专线"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 18481
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -615,7 +295,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 18481
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -623,47 +303,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1EC新加坡03|Linode|内网专线"
     type: vmess
-    server: y03.viuin39.cc
-    port: 18481
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1EC新加坡04|Linode|内网专线"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 18481
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1EC新加坡05|Linode|内网专线"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 18481
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1EC新加坡06|Linode|内网专线"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 18481
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1EC新加坡07|Linode|内网专线"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 18481
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F8\U0001F1EC新加坡08|Linode|内网专线"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 18481
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -671,7 +311,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5日本01|Linode|内网专线"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 29211
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -679,7 +319,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 29211
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -687,47 +327,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5日本03|Linode|内网专线"
     type: vmess
-    server: y03.viuin39.cc
-    port: 29211
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5日本04|Linode|内网专线"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 29211
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5日本05|Linode|内网专线"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 29211
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5日本06|Linode|内网专线"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 29211
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5日本07|Linode|内网专线"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 29211
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1EF\U0001F1F5日本08|Linode|内网专线"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 29211
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -735,7 +335,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港01|HKT|动态家宽"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 46202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -743,7 +343,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 46202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -751,47 +351,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港03|HKT|动态家宽"
     type: vmess
-    server: y03.viuin39.cc
-    port: 46202
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港04|HKT|动态家宽"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 46202
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港05|HKT|动态家宽"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 46202
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港06|HKT|动态家宽"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 46202
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港07|HKT|动态家宽"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 46202
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港08|HKT|动态家宽"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 46202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -799,7 +359,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0 VIP香港01|HKBN|动态家宽"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -807,7 +367,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -815,47 +375,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0 VIP香港03|HKBN|动态家宽"
     type: vmess
-    server: y03.viuin39.cc
-    port: 34515
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0 VIP香港04|HKBN|动态家宽"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 34515
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0 VIP香港05|HKBN|动态家宽"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 34515
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0 VIP香港06|HKBN|动态家宽"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 34515
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0 VIP香港07|HKBN|动态家宽"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 34515
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0 VIP香港08|HKBN|动态家宽"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -863,7 +383,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港01|ICABLE|动态家宽"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 18445
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -871,7 +391,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 18445
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -879,47 +399,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港03|ICABLE|动态家宽"
     type: vmess
-    server: y03.viuin39.cc
-    port: 18445
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港04|ICABLE|动态家宽"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 18445
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港05|ICABLE|动态家宽"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 18445
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港06|ICABLE|动态家宽"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 18445
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港07|ICABLE|动态家宽"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 18445
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0香港08|ICABLE|动态家宽"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 18445
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -927,7 +407,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FC台湾01|HINET|动态家宽"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 41004
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -935,7 +415,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 41004
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -943,47 +423,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FC台湾03|HINET|动态家宽"
     type: vmess
-    server: y03.viuin39.cc
-    port: 41004
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FC台湾04|HINET|动态家宽"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 41004
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FC台湾05|HINET|动态家宽"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 41004
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FC台湾06|HINET|动态家宽"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 41004
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FC台湾07|HINET|动态家宽"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 41004
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1F9\U0001F1FC台湾08|HINET|动态家宽"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 41004
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -991,7 +431,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|纽约|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 46203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -999,7 +439,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 46203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1007,47 +447,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|纽约|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 46203
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|纽约|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 46203
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|纽约|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 46203
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|纽约|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 46203
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|纽约|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 46203
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|纽约|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 46203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1055,7 +455,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|费城|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 46204
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1063,7 +463,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 46204
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1071,47 +471,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|费城|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 46204
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|费城|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 46204
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|费城|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 46204
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|费城|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 46204
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|费城|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 46204
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|费城|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 46204
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1119,7 +479,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|旧金山|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40011
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1127,7 +487,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40011
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1135,47 +495,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|旧金山|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40011
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|旧金山|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40011
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|旧金山|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40011
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|旧金山|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40011
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|旧金山|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40011
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|旧金山|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40011
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1183,7 +503,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|迈阿密|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40013
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1191,7 +511,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40013
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1199,47 +519,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|迈阿密|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40013
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|迈阿密|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40013
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|迈阿密|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40013
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|迈阿密|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40013
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|迈阿密|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40013
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|迈阿密|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40013
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1247,7 +527,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|费利蒙|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40018
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1255,7 +535,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40018
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1263,47 +543,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|费利蒙|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40018
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|费利蒙|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40018
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|费利蒙|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40018
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|费利蒙|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40018
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|费利蒙|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40018
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|费利蒙|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40018
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1311,7 +551,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|纽瓦克|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40012
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1319,7 +559,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40012
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1327,47 +567,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|纽瓦克|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40012
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|纽瓦克|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40012
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|纽瓦克|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40012
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|纽瓦克|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40012
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|纽瓦克|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40012
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|纽瓦克|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40012
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1375,7 +575,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|西雅图|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40017
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1383,7 +583,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40017
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1391,47 +591,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|西雅图|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40017
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|西雅图|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40017
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|西雅图|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40017
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|西雅图|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40017
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|西雅图|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40017
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|西雅图|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40017
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1439,7 +599,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国01|达拉斯|高速中转"
     type: vmess
-    server: y01.viuin39.cc
+    server: 103.181.164.186
     port: 40019
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1447,7 +607,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
     type: vmess
-    server: y02.viuin39.cc
+    server: 216.38.168.38
     port: 40019
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1455,47 +615,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国03|达拉斯|高速中转"
     type: vmess
-    server: y03.viuin39.cc
-    port: 40019
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国04|达拉斯|高速中转"
-    type: vmess
-    server: y04.viuin39.cc
-    port: 40019
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国05|达拉斯|高速中转"
-    type: vmess
-    server: y05.viuin39.cc
-    port: 40019
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国06|达拉斯|高速中转"
-    type: vmess
-    server: y06.viuin39.cc
-    port: 40019
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国07|达拉斯|高速中转"
-    type: vmess
-    server: y07.viuin39.cc
-    port: 40019
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1FA\U0001F1F8美国08|达拉斯|高速中转"
-    type: vmess
-    server: y08.viuin39.cc
+    server: 38.76.141.6
     port: 40019
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1503,7 +623,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本|BIGLOBE|动态家宽|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18849
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1511,7 +631,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本|SoftBank|动态家宽|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18447
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1519,7 +639,7 @@ proxies:
     udp: true
   - name: "\U0001F1E8\U0001F1E6VIP加拿大|TELUS|动态家宽|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 52301
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1527,7 +647,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8VIP美国|T-Mobile|移动网络|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 17178
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1535,7 +655,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8VIP美国|AT&T|移动网络|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18477
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1543,7 +663,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8VIP美国|Frontier|动态家宽|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 57449
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1551,7 +671,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8VIP美国|Verizon|动态家宽|禁止视频"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 40001
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1559,7 +679,7 @@ proxies:
     udp: true
   - name: "\U0001F1F5\U0001F1EDVIP菲律宾|马尼拉|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 43201
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1567,7 +687,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1EDVIP泰国|芭提雅|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18103
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1575,7 +695,7 @@ proxies:
     udp: true
   - name: "\U0001F1F0\U0001F1EDVIP柬埔寨|西哈努克|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18292
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1583,7 +703,7 @@ proxies:
     udp: true
   - name: "\U0001F1FB\U0001F1F3VIP越南|胡志明|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 17494
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1591,7 +711,7 @@ proxies:
     udp: true
   - name: "\U0001F1F2\U0001F1F4VIP澳门特别行政区|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 17495
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1599,7 +719,7 @@ proxies:
     udp: true
   - name: "\U0001F1EE\U0001F1E9VIP印尼|雅加达|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1607,7 +727,7 @@ proxies:
     udp: true
   - name: "\U0001F1F2\U0001F1FEVIP马来西亚|吉隆坡|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18101
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1615,7 +735,7 @@ proxies:
     udp: true
   - name: "\U0001F1E8\U0001F1F4VIP哥伦比亚|波哥大|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18172
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1623,7 +743,7 @@ proxies:
     udp: true
   - name: "\U0001F1EC\U0001F1F7VIP希腊|雅典|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18108
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1631,7 +751,7 @@ proxies:
     udp: true
   - name: "\U0001F1EA\U0001F1ECVIP埃及|开罗|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18348
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1639,7 +759,7 @@ proxies:
     udp: true
   - name: "\U0001F1EB\U0001F1F7VIP法国|巴黎|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 19299
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1647,7 +767,7 @@ proxies:
     udp: true
   - name: "\U0001F1E6\U0001F1FAVIP澳大利亚|悉尼|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 19301
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1655,7 +775,7 @@ proxies:
     udp: true
   - name: "\U0001F1E6\U0001F1FAVIP澳大利亚|墨尔本|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 19302
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1663,7 +783,7 @@ proxies:
     udp: true
   - name: "\U0001F1FF\U0001F1E6VIP南非|约翰里斯堡|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18109
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1671,7 +791,7 @@ proxies:
     udp: true
   - name: "\U0001F1F2\U0001F1FDVIP墨西哥|瓜达拉哈拉|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 41236
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1679,7 +799,7 @@ proxies:
     udp: true
   - name: "\U0001F1E6\U0001F1FFVIP阿塞拜疆共和国|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18197
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1687,7 +807,7 @@ proxies:
     udp: true
   - name: "\U0001F1F7\U0001F1F4VIP罗马尼亚|布加勒斯特|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18204
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1695,7 +815,7 @@ proxies:
     udp: true
   - name: "\U0001F1E7\U0001F1E9VIP孟加拉国|达卡|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 43202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1703,7 +823,7 @@ proxies:
     udp: true
   - name: "\U0001F1E8\U0001F1E6VIP加拿大|多伦多|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18097
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1711,7 +831,7 @@ proxies:
     udp: true
   - name: "\U0001F1E8\U0001F1FFVIP捷克|布拉格|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 43203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1719,7 +839,7 @@ proxies:
     udp: true
   - name: "\U0001F1F3\U0001F1F1VIP荷兰|阿姆斯特丹|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18096
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1727,7 +847,7 @@ proxies:
     udp: true
   - name: "\U0001F1EE\U0001F1F3VIP印度|新德里|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18198
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1735,7 +855,7 @@ proxies:
     udp: true
   - name: "\U0001F1EE\U0001F1EAVIP爱尔兰|都柏林|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 46201
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1743,7 +863,7 @@ proxies:
     udp: true
   - name: "\U0001F1E8\U0001F1F1VIP智利|圣地亚哥|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 46205
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1751,7 +871,7 @@ proxies:
     udp: true
   - name: "\U0001F1E6\U0001F1EAVIP阿拉伯联合酋长国|迪拜|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 46207
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1759,7 +879,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1E6VIP沙特阿拉伯|吉达|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 46209
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1767,7 +887,7 @@ proxies:
     udp: true
   - name: "\U0001F1EC\U0001F1E7VIP英国|伦敦|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18199
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1775,7 +895,7 @@ proxies:
     udp: true
   - name: "\U0001F1E9\U0001F1EAVIP德国|法兰克福|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18100
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1783,7 +903,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1F7VIP土耳其|伊斯坦布尔|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18105
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1791,7 +911,7 @@ proxies:
     udp: true
   - name: "\U0001F1F7\U0001F1FAVIP俄罗斯|新西伯利亚|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 52321
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1799,7 +919,7 @@ proxies:
     udp: true
   - name: "\U0001F1E6\U0001F1F7VIP阿根廷|科尔多瓦|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18107
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1807,7 +927,7 @@ proxies:
     udp: true
   - name: "\U0001F1F7\U0001F1FAVIP俄罗斯|莫斯科|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18195
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1815,7 +935,7 @@ proxies:
     udp: true
   - name: "\U0001F1F7\U0001F1FAVIP巴西|里约热内卢|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18196
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1823,7 +943,7 @@ proxies:
     udp: true
   - name: "\U0001F1EE\U0001F1F9VIP意大利|米兰|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18201
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1831,7 +951,7 @@ proxies:
     udp: true
   - name: "\U0001F1F3\U0001F1F4VIP挪威|奥斯陆|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1839,7 +959,7 @@ proxies:
     udp: true
   - name: "\U0001F1F5\U0001F1F0VIP巴基斯坦|卡拉奇|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18205
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1847,7 +967,7 @@ proxies:
     udp: true
   - name: "\U0001F1E7\U0001F1ECVIP保加利亚|东欧|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18216
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1855,7 +975,7 @@ proxies:
     udp: true
   - name: "\U0001F1F1\U0001F1FBVIP拉脱维亚|东欧|中转|原生"
     type: vmess
-    server: y10.viuin39.cc
+    server: 103.181.164.186
     port: 18207
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1870,11 +990,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
-      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
-      - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
-      - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
-      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1889,171 +1004,66 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港04|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港05|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港06|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港07|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港08|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡01|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡03|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡04|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡05|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡06|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡07|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡08|Aperture|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾01|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾03|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾04|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾05|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾06|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾07|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾08|大哥大Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国01|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国03|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国04|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国05|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国06|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国07|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国08|SK电讯Net|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本01|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本03|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本04|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本05|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本06|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本07|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本08|Aperture|AGA"
       - "\U0001F1F8\U0001F1EC新加坡01|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡03|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡04|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡05|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡06|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡07|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡08|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本01|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本03|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本04|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本05|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本06|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本07|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本08|Linode|内网专线"
       - "\U0001F1ED\U0001F1F0香港01|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港01|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港03|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港04|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港05|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港06|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港07|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港08|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0香港01|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|ICABLE|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾01|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾03|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾04|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾05|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾06|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾07|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾08|HINET|动态家宽"
       - "\U0001F1FA\U0001F1F8美国01|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|达拉斯|高速中转"
       - "\U0001F1EF\U0001F1F5VIP日本|BIGLOBE|动态家宽|禁止视频"
       - "\U0001F1EF\U0001F1F5VIP日本|SoftBank|动态家宽|禁止视频"
       - "\U0001F1E8\U0001F1E6VIP加拿大|TELUS|动态家宽|禁止视频"
@@ -2105,11 +1115,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
-      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
-      - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
-      - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
-      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2124,171 +1129,66 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港04|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港05|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港06|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港07|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港08|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡01|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡03|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡04|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡05|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡06|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡07|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡08|Aperture|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾01|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾03|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾04|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾05|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾06|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾07|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾08|大哥大Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国01|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国03|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国04|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国05|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国06|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国07|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国08|SK电讯Net|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本01|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本03|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本04|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本05|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本06|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本07|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本08|Aperture|AGA"
       - "\U0001F1F8\U0001F1EC新加坡01|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡03|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡04|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡05|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡06|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡07|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡08|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本01|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本03|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本04|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本05|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本06|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本07|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本08|Linode|内网专线"
       - "\U0001F1ED\U0001F1F0香港01|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港01|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港03|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港04|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港05|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港06|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港07|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港08|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0香港01|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|ICABLE|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾01|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾03|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾04|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾05|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾06|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾07|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾08|HINET|动态家宽"
       - "\U0001F1FA\U0001F1F8美国01|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|达拉斯|高速中转"
       - "\U0001F1EF\U0001F1F5VIP日本|BIGLOBE|动态家宽|禁止视频"
       - "\U0001F1EF\U0001F1F5VIP日本|SoftBank|动态家宽|禁止视频"
       - "\U0001F1E8\U0001F1E6VIP加拿大|TELUS|动态家宽|禁止视频"
@@ -2342,11 +1242,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
-      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
-      - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
-      - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
-      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2361,171 +1256,66 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港04|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港05|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港06|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港07|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港08|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡01|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡03|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡04|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡05|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡06|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡07|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡08|Aperture|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾01|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾03|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾04|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾05|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾06|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾07|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾08|大哥大Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国01|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国03|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国04|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国05|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国06|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国07|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国08|SK电讯Net|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本01|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本03|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本04|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本05|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本06|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本07|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本08|Aperture|AGA"
       - "\U0001F1F8\U0001F1EC新加坡01|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡03|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡04|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡05|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡06|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡07|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡08|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本01|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本03|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本04|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本05|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本06|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本07|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本08|Linode|内网专线"
       - "\U0001F1ED\U0001F1F0香港01|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港01|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港03|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港04|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港05|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港06|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港07|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港08|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0香港01|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|ICABLE|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾01|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾03|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾04|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾05|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾06|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾07|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾08|HINET|动态家宽"
       - "\U0001F1FA\U0001F1F8美国01|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|达拉斯|高速中转"
       - "\U0001F1EF\U0001F1F5VIP日本|BIGLOBE|动态家宽|禁止视频"
       - "\U0001F1EF\U0001F1F5VIP日本|SoftBank|动态家宽|禁止视频"
       - "\U0001F1E8\U0001F1E6VIP加拿大|TELUS|动态家宽|禁止视频"
@@ -2581,11 +1371,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
-      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
-      - "\U0001F1ED\U0001F1F0【不要使用自动选择和公告节点】"
-      - "\U0001F1ED\U0001F1F0【常规国家节点全面支持谷歌gemini】"
-      - "\U0001F1ED\U0001F1F0【本站所有客户端均支持在线客服】"
-      - "\U0001F1ED\U0001F1F0【0418版客户端上线需重新安装】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -2600,171 +1385,66 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港04|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港05|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港06|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港07|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港08|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港04|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港05|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港06|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港07|Aperture|AGA"
-      - "\U0001F1ED\U0001F1F0VIP香港08|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡01|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
       - "\U0001F1F8\U0001F1ECVIP新加坡03|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡04|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡05|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡06|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡07|Aperture|AGA"
-      - "\U0001F1F8\U0001F1ECVIP新加坡08|Aperture|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾01|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
       - "\U0001F1F9\U0001F1FCVIP台湾03|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾04|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾05|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾06|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾07|大哥大Net|AGA"
-      - "\U0001F1F9\U0001F1FCVIP台湾08|大哥大Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国01|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
       - "\U0001F1F0\U0001F1F7VIP韩国03|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国04|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国05|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国06|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国07|SK电讯Net|AGA"
-      - "\U0001F1F0\U0001F1F7VIP韩国08|SK电讯Net|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本01|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
       - "\U0001F1EF\U0001F1F5VIP日本03|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本04|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本05|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本06|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本07|Aperture|AGA"
-      - "\U0001F1EF\U0001F1F5VIP日本08|Aperture|AGA"
       - "\U0001F1F8\U0001F1EC新加坡01|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
       - "\U0001F1F8\U0001F1EC新加坡03|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡04|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡05|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡06|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡07|Linode|内网专线"
-      - "\U0001F1F8\U0001F1EC新加坡08|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本01|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
       - "\U0001F1EF\U0001F1F5日本03|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本04|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本05|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本06|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本07|Linode|内网专线"
-      - "\U0001F1EF\U0001F1F5日本08|Linode|内网专线"
       - "\U0001F1ED\U0001F1F0香港01|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|HKT|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|HKT|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港01|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0 VIP香港03|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港04|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港05|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港06|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港07|HKBN|动态家宽"
-      - "\U0001F1ED\U0001F1F0 VIP香港08|HKBN|动态家宽"
       - "\U0001F1ED\U0001F1F0香港01|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
       - "\U0001F1ED\U0001F1F0香港03|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港04|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港05|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港06|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港07|ICABLE|动态家宽"
-      - "\U0001F1ED\U0001F1F0香港08|ICABLE|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾01|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
       - "\U0001F1F9\U0001F1FC台湾03|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾04|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾05|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾06|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾07|HINET|动态家宽"
-      - "\U0001F1F9\U0001F1FC台湾08|HINET|动态家宽"
       - "\U0001F1FA\U0001F1F8美国01|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽约|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽约|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费城|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费城|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|旧金山|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|旧金山|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|迈阿密|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|迈阿密|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|费利蒙|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|费利蒙|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|纽瓦克|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|纽瓦克|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|西雅图|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|西雅图|高速中转"
       - "\U0001F1FA\U0001F1F8美国01|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
       - "\U0001F1FA\U0001F1F8美国03|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国04|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国05|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国06|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国07|达拉斯|高速中转"
-      - "\U0001F1FA\U0001F1F8美国08|达拉斯|高速中转"
       - "\U0001F1EF\U0001F1F5VIP日本|BIGLOBE|动态家宽|禁止视频"
       - "\U0001F1EF\U0001F1F5VIP日本|SoftBank|动态家宽|禁止视频"
       - "\U0001F1E8\U0001F1E6VIP加拿大|TELUS|动态家宽|禁止视频"
