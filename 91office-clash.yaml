@@ -22,6 +22,26 @@ dns:
     - 'https://223.5.5.5/dns-query'
     - 'https://doh.pub/dns-query'
 proxies:
+  - name: "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+    server: 18.162.48.72
+    port: 17101
+    ports: 17101-19191
+    mport: 17101-19191
+    udp: true
+    skip-cert-verify: true
+    sni: www.iq.com
+    type: hysteria2
+    password: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
+  - name: "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
+    server: '2406:da1e:398:a8d3:7d09:673:c64d:d04e'
+    port: 17101
+    ports: 17101-19191
+    mport: 17101-19191
+    udp: true
+    skip-cert-verify: true
+    sni: www.iq.com
+    type: hysteria2
+    password: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
   - name: "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
     server: 156.251.226.140
     port: 17101
@@ -1074,6 +1094,8 @@ proxy-groups:
     proxies:
       - 自动选择
       - 故障转移
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
       - "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
@@ -1206,6 +1228,8 @@ proxy-groups:
   - name: 自动选择
     type: url-test
     proxies:
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
       - "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
@@ -1340,6 +1364,8 @@ proxy-groups:
   - name: 故障转移
     type: fallback
     proxies:
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
       - "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
@@ -1476,6 +1502,8 @@ proxy-groups:
     proxies:
       - 自动选择
       - 故障转移
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
       - "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
@@ -1610,6 +1638,8 @@ proxy-groups:
     proxies:
       - 自动选择
       - 故障转移
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-移动联通优化】"
+      - "\U0001F1ED\U0001F1F0【Hy-香港家宽A-ipv6-移动联通优化】"
       - "\U0001F1ED\U0001F1F0【Hy-香港-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
