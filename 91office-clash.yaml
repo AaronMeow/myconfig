@@ -83,7 +83,7 @@ proxies:
     type: hysteria2
     password: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
   - name: "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
-    server: 205.198.93.102
+    server: 64.118.159.249
     port: 17101
     ports: 17101-19191
     mport: 17101-19191
