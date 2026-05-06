@@ -82,16 +82,6 @@ proxies:
     sni: www.iq.com
     type: hysteria2
     password: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-  - name: "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
-    server: 64.118.159.249
-    port: 17101
-    ports: 17101-19191
-    mport: 17101-19191
-    udp: true
-    skip-cert-verify: true
-    sni: www.iq.com
-    type: hysteria2
-    password: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
   - name: "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
     server: 172.104.99.53
     port: 17101
@@ -122,7 +112,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -234,7 +224,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 34501
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -258,7 +248,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -282,7 +272,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 19480
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -306,7 +296,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1ECVIP新加坡02|Aperture|AGA"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40005
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -330,7 +320,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FCVIP台湾02|大哥大Net|AGA"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 34516
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -354,7 +344,7 @@ proxies:
     udp: true
   - name: "\U0001F1F0\U0001F1F7VIP韩国02|SK电讯Net|AGA"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 18446
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -378,7 +368,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5VIP日本02|Aperture|AGA"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40003
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -402,7 +392,7 @@ proxies:
     udp: true
   - name: "\U0001F1F8\U0001F1EC新加坡02|Linode|内网专线"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 18481
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -426,7 +416,7 @@ proxies:
     udp: true
   - name: "\U0001F1EF\U0001F1F5日本02|Linode|内网专线"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 29211
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -450,7 +440,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港02|HKT|动态家宽"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 46202
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -474,7 +464,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0 VIP香港02|HKBN|动态家宽"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -498,7 +488,7 @@ proxies:
     udp: true
   - name: "\U0001F1ED\U0001F1F0香港02|ICABLE|动态家宽"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 18445
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -522,7 +512,7 @@ proxies:
     udp: true
   - name: "\U0001F1F9\U0001F1FC台湾02|HINET|动态家宽"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 41004
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -546,7 +536,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|纽约|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 46203
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -570,7 +560,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|费城|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 46204
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -594,7 +584,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|旧金山|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40011
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -618,7 +608,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|迈阿密|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40013
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -642,7 +632,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|费利蒙|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40018
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -666,7 +656,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|纽瓦克|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40012
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -690,7 +680,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|西雅图|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40017
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -714,7 +704,7 @@ proxies:
     udp: true
   - name: "\U0001F1FA\U0001F1F8美国02|达拉斯|高速中转"
     type: vmess
-    server: 216.38.168.38
+    server: 38.76.141.6
     port: 40019
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -1100,7 +1090,6 @@ proxy-groups:
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-洛杉矶-实验线路】"
-      - "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
       - "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡02-实验线路】"
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
@@ -1234,7 +1223,6 @@ proxy-groups:
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-洛杉矶-实验线路】"
-      - "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
       - "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡02-实验线路】"
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
@@ -1370,7 +1358,6 @@ proxy-groups:
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-洛杉矶-实验线路】"
-      - "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
       - "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡02-实验线路】"
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
@@ -1508,7 +1495,6 @@ proxy-groups:
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-洛杉矶-实验线路】"
-      - "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
       - "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡02-实验线路】"
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
@@ -1644,7 +1630,6 @@ proxy-groups:
       - "\U0001F1F8\U0001F1EC【Hy-新加坡01-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-旧金山-实验线路】"
       - "\U0001F1FA\U0001F1F8【Hy-洛杉矶-实验线路】"
-      - "\U0001F1E9\U0001F1EA【Hy-德国-实验线路】"
       - "\U0001F1EF\U0001F1F5【Hy-日本-实验线路】"
       - "\U0001F1F8\U0001F1EC【Hy-新加坡02-实验线路】"
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
