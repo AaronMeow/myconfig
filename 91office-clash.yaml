@@ -105,7 +105,7 @@ proxies:
   - name: "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
     type: vmess
     server: 103.181.164.186
-    port: 34560
+    port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
     cipher: auto
@@ -113,7 +113,7 @@ proxies:
   - name: "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
     type: vmess
     server: 38.76.141.6
-    port: 34560
+    port: 34515
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
     cipher: auto
@@ -121,6 +121,14 @@ proxies:
   - name: "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
     type: vmess
     server: 38.76.141.6
+    port: 34515
+    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
+    alterId: 0
+    cipher: auto
+    udp: true
+  - name: "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
+    type: vmess
+    server: 103.181.164.186
     port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
@@ -234,30 +242,6 @@ proxies:
     type: vmess
     server: 38.76.141.6
     port: 34501
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-    type: vmess
-    server: 103.181.164.186
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-    type: vmess
-    server: 38.76.141.6
-    port: 34560
-    uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
-    alterId: 0
-    cipher: auto
-    udp: true
-  - name: "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
-    type: vmess
-    server: 38.76.141.6
-    port: 34560
     uuid: 9b28c7fb-01ec-4990-aaf2-d9cfcbc3feaa
     alterId: 0
     cipher: auto
@@ -1095,6 +1079,7 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
+      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1109,9 +1094,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
@@ -1228,6 +1210,7 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
+      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1242,9 +1225,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
@@ -1363,6 +1343,7 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
+      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1377,9 +1358,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
@@ -1500,6 +1478,7 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
+      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1514,9 +1493,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
@@ -1635,6 +1611,7 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0【请保存网址发布页获取最新网址】"
       - "\U0001F1ED\U0001F1F0【禁止使用全局代理模式访问国内】"
       - "\U0001F1ED\U0001F1F0【91jc01@gmail.com回家邮箱】"
+      - "\U0001F1ED\U0001F1F0【发布页https://bit.ly/91fby】"
       - "\U0001F1ED\U0001F1F0HKG01|海外用户专用|DirectAccess"
       - "\U0001F1ED\U0001F1F0HKG02|海外用户专用|DirectAccess"
       - "\U0001F1F8\U0001F1ECSGP|海外用户专用|DirectAccess"
@@ -1649,9 +1626,6 @@ proxy-groups:
       - "\U0001F1ED\U0001F1F0VIP香港01|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港02|CERA|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港03|CERA|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港01|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港02|DMIT|阿里ECDN"
-      - "\U0001F1ED\U0001F1F0VIP香港03|DMIT|阿里ECDN"
       - "\U0001F1ED\U0001F1F0VIP香港01|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港02|Aperture|AGA"
       - "\U0001F1ED\U0001F1F0VIP香港03|Aperture|AGA"
